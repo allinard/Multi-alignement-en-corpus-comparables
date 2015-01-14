@@ -28,12 +28,22 @@ Ce dont l'article s'inspire plus fortement sont les approches décrites ci-desso
 
 ### Approche basée sur un pivot standard
 
-Pour extraire un lexique bilingue de paire de langues disposant de peu de ressources et SANS ressource externe (ni dictionnaire bilingue, ni corpus parallèle). Utilise par contre une langue pivot.
+Pour extraire un lexique bilingue de paire de langues disposant de peu de ressources et SANS ressource externe (ni dictionnaire bilingue, ni corpus parallèle). Utilise par contre une langue pivot. Du coup la dimension des deux vecteurs de contexte devient la même, il sont donc comparables et on n'a pas besoin d'un dictionnaire bilingue pour la phase de traduction.
+
+Les étapes de la mise en place d'une telle méthode sont les suivantes :
+
+* Calcul des vecteurs de contexte depuis 2 jeux de corpus parallèles (langue source - langue pivot et langue pivot - langue source)
+* Calcul de la similarité entre le vecteur de contexte source et tous les vecteurs de contexte cible.
+* Renvoi des traductions candidates d'après les scores de similarité.
+
 
 
 ### Approche basée sur le contexte étendue
 
+Le but de cette approche est une dépendance moindre pour la couverture sur le dictionnaire bilingue initial. On utilise aussi les affinités du second ordre de la langue source (les mots qui partagent les mêmes environnements). L'idée est la suivante :
 
+* les k plus proches mots dans le texte source sont identifiés
+* le score de similarité de chaque mot dans la langue cible est calculé
 
 
 
