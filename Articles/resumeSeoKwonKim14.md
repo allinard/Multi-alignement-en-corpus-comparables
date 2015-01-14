@@ -16,6 +16,25 @@ On voit tout d'abord l'approche globale voulue :
 
 ## Etat de l'art
 
+Ce qui existe dans le domaine :
+
+* Représentation des mots par un vecteur de contexte basé sur leur contexte lexical (Fung & McKeown 97 ; Cao & Li 02)
+* Dictionnaire bilingue pour traduire les vecteurs de contexte (Koehn & Knight 02 ; Koehn Och & Knight 03)
+* Mots similaires partageant des contextes lexicaux (Déjean Sadat & Gaussier 02)
+* Approche standard basées sur pivot (Seo Kwon & Kim 13) qui est utile seulement pour les paires de langues pauvres en ressources, et qui extrait de lexiques bilingues en utilisant une langue pivot (comme l'anglais)
+
+
+Ce dont l'article s'inspire plus fortement sont les approches décrites ci-dessous. Elles se basent toutes sur des approches basées sur le contexte (Rapp 99)
+
+### Approche basée sur un pivot standard
+
+Pour extraire un lexique bilingue de paire de langues disposant de peu de ressources et SANS ressource externe (ni dictionnaire bilingue, ni corpus parallèle). Utilise par contre une langue pivot.
+
+
+### Approche basée sur le contexte étendue
+
+
+
 
 
 
