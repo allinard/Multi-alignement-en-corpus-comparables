@@ -8,9 +8,9 @@ Cet article traite de extension de l'approche par pivot de l'extraction de lexiq
 
 ## Intro
 On voit tout d'abord l'approche globale voulue :
-1. Calcul de vecteurs de contexte entre la langue source et une langue pivot (souvent, l'anglais), et la langue cible et la même langue pivot
-2. Identification des vecteurs de contexte similaires dans la langue source (dans le but d'améliorer les résultats retournés pour les mots polysémiques)
-3. Extraction des traductions candidates à partir des vecteurs de contexte cible par la similarité entre les vecteurs de contexte source et cible
+1.	Calcul de vecteurs de contexte entre la langue source et une langue pivot (souvent, l'anglais), et la langue cible et la même langue pivot
+2.	Identification des vecteurs de contexte similaires dans la langue source (dans le but d'améliorer les résultats retournés pour les mots polysémiques)
+3.	Extraction des traductions candidates à partir des vecteurs de contexte cible par la similarité entre les vecteurs de contexte source et cible
 
 
 ## Etat de l'art
