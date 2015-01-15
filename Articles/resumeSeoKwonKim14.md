@@ -2,14 +2,14 @@
 ---------
 
 ### En quelques mots : 
-Cet article traite de extension de l'approche par pivot de l'extraction de lexiques bilingues dans le cas de paires de langues dont on dispose peu de ressources.
+Cet article traite de extension de l'approche par pivot pour l'extraction de lexiques bilingues dans le cas de paires de langues dont on dispose de peu de ressources.
 
 
 
 ## Intro
-On voit tout d'abord l'approche globale voulue :
+En gros, l'approche globale voulue est la suivante :
 
-1. Calcul de vecteurs de contexte entre la langue source et une langue pivot (souvent, l'anglais), et la langue cible et la même langue pivot
+1. Calcul de vecteurs de contexte entre la langue source et une langue pivot (souvent, l'anglais), et la langue cible et la langue pivot
 2. Identification des vecteurs de contexte similaires dans la langue source (dans le but d'améliorer les résultats retournés pour les mots polysémiques)
 3. Extraction des traductions candidates à partir des vecteurs de contexte cible par la similarité entre les vecteurs de contexte source et cible
 
@@ -21,7 +21,7 @@ Ce qui existe dans le domaine :
 * Représentation des mots par un vecteur de contexte basé sur leur contexte lexical (Fung & McKeown 97 ; Cao & Li 02)
 * Dictionnaire bilingue pour traduire les vecteurs de contexte (Koehn & Knight 02 ; Koehn Och & Knight 03)
 * Mots similaires partageant des contextes lexicaux (Déjean Sadat & Gaussier 02)
-* Approche standard basées sur pivot (Seo Kwon & Kim 13) qui est utile seulement pour les paires de langues pauvres en ressources, et qui extrait de lexiques bilingues en utilisant une langue pivot (comme l'anglais)
+* Approche standard basées sur pivot (Seo Kwon & Kim 13) qui est utile seulement pour les paires de langues pauvres en ressources, et qui extrait des lexiques bilingues en utilisant une langue pivot (comme l'anglais)
 
 
 Ce dont l'article s'inspire plus fortement sont les approches décrites ci-dessous. Elles se basent toutes sur des approches basées sur le contexte (Rapp 99)
@@ -32,17 +32,18 @@ Pour extraire un lexique bilingue de paire de langues disposant de peu de ressou
 
 Les étapes de la mise en place d'une telle méthode sont les suivantes :
 
-* Calcul des vecteurs de contexte depuis 2 jeux de corpus parallèles (langue source - langue pivot et langue pivot - langue source)
-* Calcul de la similarité entre le vecteur de contexte source et tous les vecteurs de contexte cible.
+* Calcul des vecteurs de contexte depuis 2 jeux de corpus parallèles (langue source - langue pivot et langue pivot - langue cible)
+* Calcul de la similarité entre les vecteur de contexte source et les vecteurs de contexte cible.
 * Renvoi des traductions candidates d'après les scores de similarité.
 
 
 
 ### Approche étendue basée sur le contexte (Déjean Sadat & Gaussier 02)
 
-Le but de cette approche est une dépendance moindre pour la couverture sur le dictionnaire bilingue initial. On utilise aussi les affinités du second ordre de la langue source (les mots qui partagent les mêmes environnements). L'idée est la suivante :
+Le but de cette approche est d'avoir une dépendance moindre vis à vis de la couverture du dictionnaire bilingue initial. On utilise aussi les affinités du second ordre de la langue source (les mots qui partagent les mêmes environnements). L'idée est la suivante :
 
 * les k plus proches mots dans le texte source sont identifiés
+* ils sont ensuite traduits dans la langue cible avec le dictionnaire bilingue
 * le score de similarité de chaque mot dans la langue cible est calculé
 
 
@@ -52,10 +53,6 @@ Le but de cette approche est une dépendance moindre pour la couverture sur le d
 
 
 ## L'approche en détails
-
-L'approche reprend celle basée sur le contexte étendue (Déjean Sadat & Gaussier 02). L'idée est de trouver les k plus proches mots dans le texte source et de mieux identifier les traductions candidates. Pour cela, les k plus proches mots du corpus source doivent être traduits dans la langue cible avec un dictionnaire bilingue : on a donc tous les mots représentés en langue source et les vecteurs de contexte de même dimensions.
-
-D'un autre côté l'approche standard basée sur un pivot (Kim Seo Kwon 13) utilise une langue pivot connectant la langue source et la langue cible ce qui simplifie les calculs de similarité.
 
 Ce qui est proposé dans l'article est une approche étendue basée sur un pivot. Pour cela :
 
