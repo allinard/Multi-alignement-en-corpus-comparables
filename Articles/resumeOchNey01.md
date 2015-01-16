@@ -32,13 +32,13 @@ Pour 1 document donné en N langues :
 
 Ensuite, au choix, 2 méthodes :
 * PROD
-	** étant donné un mot cible, les mots source sont considérés comme statistiquement indépendants.
-  ** on doit prendre en compte tous les mots cibles possible pour réaliser la maximisation (Och 99)
-  ** on approxime que, pour chaque langue, la meilleure traduction d'un mot est calculée en prenant seulement en compte le modèle de traduction de cette langue
-  ** on émet ensuite l'hypothèse qu'il y a autant de phrases cible que de langues à chercher, le tout dans un algorithme de recherche uni-source (Och 99)
+	* étant donné un mot cible, les mots source sont considérés comme statistiquement indépendants.
+	* on doit prendre en compte tous les mots cibles possible pour réaliser la maximisation (Och 99)
+	* on approxime que, pour chaque langue, la meilleure traduction d'un mot est calculée en prenant seulement en compte le modèle de traduction de cette langue
+	* on émet ensuite l'hypothèse qu'il y a autant de phrases cible que de langues à chercher, le tout dans un algorithme de recherche uni-source (Och 99)
 * MAX 
-	** on traduit en utilisant une des N langues source
-  ** on choisit la traduction qui obtient le meilleur score
+	* on traduit en utilisant une des N langues source
+	* on choisit la traduction qui obtient le meilleur score
 
 
 ## Expérimentations
