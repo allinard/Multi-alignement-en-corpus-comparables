@@ -78,6 +78,6 @@ Le problème d'_Anymalign_ est de faire de l'alignement de corpus *parallèles*.
 
 
 
-[fig1]: https://github.com/allinard/Multi-alignement-en-corpus-comparables/tree/master/Articles/images/KwonSeoKim13Fig1.png "Structure générale de la méthode proposée"
-[fig2]: https://github.com/allinard/Multi-alignement-en-corpus-comparables/tree/master/Articles/images/KwonSeoKim13Fig2.png "Exactitude de la méthode proposée"
-[fig3]: https://github.com/allinard/Multi-alignement-en-corpus-comparables/tree/master/Articles/images/KwonSeoKim13Fig3.png "MRR de la méthode proposée"
+[fig1]: https://github.com/allinard/Multi-alignement-en-corpus-comparables/blob/master/Articles/images/KwonSeoKim13Fig1.png "Structure générale de la méthode proposée"
+[fig2]: https://github.com/allinard/Multi-alignement-en-corpus-comparables/blob/master/Articles/images/KwonSeoKim13Fig2.png "Exactitude de la méthode proposée"
+[fig3]: https://github.com/allinard/Multi-alignement-en-corpus-comparables/blob/master/Articles/images/KwonSeoKim13Fig3.png "MRR de la méthode proposée"
