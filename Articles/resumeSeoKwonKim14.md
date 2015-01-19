@@ -90,6 +90,8 @@ Secondement,
 
 Enfin, comparaison des résultats entre méthode standard et méthode étendue
 
+![alt text][fig4]
+
 
 [fig1]: https://github.com/allinard/Multi-alignement-en-corpus-comparables/blob/master/Articles/images/SeoKwonKim14Fig1.png "Structure générale de la méthode proposée"
 [fig2]: https://github.com/allinard/Multi-alignement-en-corpus-comparables/blob/master/Articles/images/SeoKwonKim14Fig2.png "Exactitude de la méthode proposée"
