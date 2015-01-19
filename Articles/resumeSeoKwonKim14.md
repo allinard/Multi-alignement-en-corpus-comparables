@@ -76,7 +76,7 @@ Conditions similaires à [l'approche standard basée sur un pivot](https://githu
 * corpus *parallèle* KR-EN, tokenisé, étiqueté morpho-syntaxiquement, et sans mots outils 
 * corpus *parallèle* EUROPARL pour EN-FR, tokenisé, étiqueté morpho-syntaxiquement, et sans mots outils
 
-Pour l'évaluation, deux lexiques bilingues unidirectionnels pour le KR-ES et KR-FR, contenant chacun 100 mots fréquents et 100 mots rares (HIGH et LOW respectivement dans les résultats présentés)
+Pour l'évaluation, lexique bilingue pour le KR-FR, contenant 100 mots fréquents et 100 mots rares (HIGH et LOW respectivement dans les résultats présentés)
 
 Les métriques sont : 
 * exactitude
