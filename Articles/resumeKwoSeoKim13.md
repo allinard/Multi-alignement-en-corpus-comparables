@@ -48,9 +48,9 @@ Corpus KR-EN de Seo et al. (2006)
 
 Corpus EN-ES et EN-FR de Europarl
 
-Les mots sont tokenisées par Hannanum pour le KR, Tree-Tagger pour EN ES et FR
+Les mots sont tokenisés par [Hannanum](http://kldp.net/projects/hannanum) pour le KR, [Tree-Tagger](http://www.ims.uni-stuttgart.de/projekte/corplex/TreeTagger) pour EN ES et FR
 
-Pour l'évaluation, deux lexiques bilingues unidirectionnels sont construits [à la main](http://dic.anver.com) pour le KR-ES et KR-FR, contenant chacun 100 mots fréquents et 100 mots rares
+Pour l'évaluation, deux lexiques bilingues unidirectionnels sont construits [à la main](http://dic.anver.com) pour le KR-ES et KR-FR, contenant chacun 100 mots fréquents et 100 mots rares (HIGH et LOW respectivement dans les résultats présentés)
 
 Métriques :
 * exactitude
