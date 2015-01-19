@@ -21,8 +21,8 @@ La principale différence entre l'approche standard et la méthode proposée est
 Ce document présente une méthode simple et efficace pour l'extraction de lexique bilingue automatique de paires de langues peu connues. Pour ce faire, on utilise une langue pivot et on adopte des techniques de recherche d'information combinée à des techniques de traitement du langage naturel. De plus, utilisation d'Anymalign, un aligneur de mots, pour construire des vecteurs de contexte. Contrairement aux travaux précédents, obtention des vecteurs de contexte par la langue pivot. Par conséquent, pas bespon pas de traduire les vecteurs de contexte en utilisant un dictionnaire.
 
 
-### [Bilingual Multi-Word Lexicon Construction via a Pivot Language (Seo, Kwon, Kim - 2014)](http://www.m-hikari.com/ces/ces2014/ces21-24-2014/hyeongwonseoCES21-24-2014.pdf)
-Parle de l'extraction de lexiques bilingues multi-mots via une langue pivot
+### ~~[Bilingual Multi-Word Lexicon Construction via a Pivot Language (Seo, Kwon, Kim - 2014)](http://www.m-hikari.com/ces/ces2014/ces21-24-2014/hyeongwonseoCES21-24-2014.pdf)~~
+Parle de l'extraction de lexiques bilingues multi-mots via une langue pivot. Pour corpus parallèles, donc ça va pas
 
 
 
