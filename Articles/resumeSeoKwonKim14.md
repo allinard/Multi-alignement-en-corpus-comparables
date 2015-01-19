@@ -18,13 +18,13 @@ En gros, l'approche globale voulue est la suivante :
 
 Ce qui existe dans le domaine :
 
-* Représentation des mots par un vecteur de contexte basé sur leur contexte lexical (Fung & McKeown 97 ; Cao & Li 02)
-* Dictionnaire bilingue pour traduire les vecteurs de contexte (Koehn & Knight 02 ; Koehn Och & Knight 03)
-* Mots similaires partageant des contextes lexicaux (Déjean Sadat & Gaussier 02)
-* Approche standard basée sur pivot (Seo Kwon & Kim 2013) qui extrait des lexiques bilingues en utilisant une langue pivot (souvent : l'anglais)
+* Représentation des mots par un vecteur de contexte basé sur leur contexte lexical ([Fung & McKeown (1997)](http://www.cs.columbia.edu/nlp/papers/1997/fung_mckeown_97.pdf) ; [Cao & Li (2002)](http://research.microsoft.com/en-us/people/hangli/cao-li-coling02.pdf?origin=publication_detail)
+* Dictionnaire bilingue pour traduire les vecteurs de contexte ([Koehn & Knight (2002)](http://homepages.inf.ed.ac.uk/pkoehn/publications/learnlex2002.pdf) ; [Koehn, Och & Marcu (2003)](http://www.dtic.mil/dtic/tr/fulltext/u2/a461156.pdf))
+* Mots similaires partageant des contextes lexicaux ([Déjean, Sadat & Gaussier (2002)](http://acl-arc.comp.nus.edu.sg/archives/acl-arc-090501d3/data/pdf/anthology-PDF/C/C02/C02-1166.pdf))
+* Approche standard basée sur pivot ([Seo, Kwon & Kim (2013)](http://www.aclweb.org/anthology/W13-2502)) qui extrait des lexiques bilingues en utilisant une langue pivot (souvent : l'anglais)
 
 
-Ce dont l'article s'inspire plus fortement sont les approches décrites ci-dessous (qui se basent toutes sur des approches basées sur le contexte (Rapp 99))
+Ce dont l'article s'inspire plus fortement sont les approches décrites ci-dessous (qui se basent toutes sur des approches basées sur le contexte de [Rapp (1999)](http://www.aclweb.org/anthology/P99-1067))
 
 #### Approche standard basée sur un pivot (Kim Seo Kwon 2013 : [Bilingual Lexicon Extraction via Pivot Language and Word Alignment Tool](http://www.aclweb.org/anthology/W13-2502))
 
@@ -40,7 +40,7 @@ Les étapes de la mise en place d'une telle méthode sont les suivantes :
 
 
 
-#### Approche étendue basée sur le contexte (Déjean Sadat & Gaussier 02)
+#### Approche étendue basée sur le contexte ([Déjean Sadat & Gaussier 2002](http://acl-arc.comp.nus.edu.sg/archives/acl-arc-090501d3/data/pdf/anthology-PDF/C/C02/C02-1166.pdf))
 
 Le but de cette approche est d'avoir une dépendance moindre vis à vis de la couverture du dictionnaire bilingue initial. On utilise aussi les affinités du second ordre de la langue source (les mots qui partagent les mêmes environnements). L'idée est la suivante :
 
@@ -71,26 +71,37 @@ Voici un schéma récapitulatif :
 
 ## Expérimentations
 
-* corpus parallèle KR-EN
-* corpus parallèle EUROPARL pour EN-FR
-* Accuracy : MRR (Mean Reciprocal Recall), prend plus en compte les traductions données à un rang élevé
+Conditions similaires à [l'approche standard basée sur un pivot](https://github.com/allinard/Multi-alignement-en-corpus-comparables/blob/master/Articles/resumeKwoSeoKim13.md)
+
+* corpus *parallèle* KR-EN, tokenisé, étiqueté morpho-syntaxiquement, et sans mots outils 
+* corpus *parallèle* EUROPARL pour EN-FR, tokenisé, étiqueté morpho-syntaxiquement, et sans mots outils
+
+Pour l'évaluation, deux lexiques bilingues unidirectionnels pour le KR-ES et KR-FR, contenant chacun 100 mots fréquents et 100 mots rares (HIGH et LOW respectivement dans les résultats présentés)
+
+Les métriques sont : 
+* exactitude
+* MRR (Mean Reciprocal Recall), prend plus en compte les traductions données à un rang élevé
 * Rappel : RR (Rated Recall), prend en compte l'importance des traductions (le nombre de fois qu'elles apparaissent dans le document)
 
 #### Résultats 
 
 Voici les résultats (la langue pivot est l'anglais - les résultats sont la moyenne des 2 cas "FR->KR" et "KR->FR") :
 
-Premièrement, 
+Premièrement (LOW en haut et HIGH en bas), 
 
 ![alt text][fig2]
 
-Secondement, 
+Secondement (LOW en haut et HIGH en bas), 
 
 ![alt text][fig3]
 
 Enfin, comparaison des résultats entre méthode standard et méthode étendue
 
 ![alt text][fig4]
+
+
+
+
 
 
 [fig1]: https://github.com/allinard/Multi-alignement-en-corpus-comparables/blob/master/Articles/images/SeoKwonKim14Fig1.png "Structure générale de la méthode proposée"
