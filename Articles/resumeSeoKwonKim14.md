@@ -30,7 +30,7 @@ Ce dont l'article s'inspire plus fortement sont les approches décrites ci-desso
 
 Un résumé est [ICI](https://github.com/allinard/Multi-alignement-en-corpus-comparables/blob/master/Articles/resumeKwoSeoKim13.md)
 
-Pour extraire un lexique bilingue de paire de langues disposant de peu de ressources et SANS ressource externe (ni dictionnaire bilingue, ni corpus parallèle) MAIS avec une langue pivot. 
+Pour extraire un lexique bilingue de paire de langues disposant de peu de ressources et SANS ressource externe (pas de dictionnaire bilingue) MAIS avec une langue pivot. 
 
 Les étapes de la mise en place d'une telle méthode sont les suivantes :
 
