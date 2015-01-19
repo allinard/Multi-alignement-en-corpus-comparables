@@ -44,9 +44,9 @@ Voici un schéma récapitulatif :
 
 Utilisation d'Anymalign.
 
-Corpus KR-EN de Seo et al. (2006)
+Corpus *parallèle* KR-EN de Seo et al. (2006)
 
-Corpus EN-ES et EN-FR de Europarl
+Corpus *parallèles* EN-ES et EN-FR de Europarl
 
 Les mots sont tokenisés par [Hannanum](http://kldp.net/projects/hannanum) pour le KR, [Tree-Tagger](http://www.ims.uni-stuttgart.de/projekte/corplex/TreeTagger) pour EN ES et FR
 
