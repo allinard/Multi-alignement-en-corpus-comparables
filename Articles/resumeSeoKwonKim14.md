@@ -13,6 +13,8 @@ En gros, l'approche globale voulue est la suivante :
 2. Identification des vecteurs de contexte similaires dans la langue source (dans le but d'améliorer les résultats retournés pour les mots polysémiques)
 3. Extraction des traductions candidates à partir des vecteurs de contexte cible par la similarité entre les vecteurs de contexte source et cible
 
+Les expérimentations sont faites avec des *corpus parallèles*. Cependant, je pense qu'on peut adapter la méthode à des corpus *comparables*.
+
 
 ## Etat de l'art
 
@@ -100,6 +102,12 @@ Enfin, comparaison des résultats entre méthode standard et méthode étendue
 ![alt text][fig4]
 
 
+
+
+
+## Avec des corpus comparables
+
+Utiliser un dictionnaire LS-LP et LP-LC pour la construction de vecteurs de contexte LS traduits en LP puis LC traduits en LP ?
 
 
 
