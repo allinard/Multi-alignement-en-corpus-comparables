@@ -57,7 +57,7 @@ Métriques :
 * rappel
 * MRR (Mean Reciprocal Rank) : la moyenne des rangs réciproques des candidats de la traduction qui sont des traductions correctes pour un échantillon de mots
 
-Voici les résultats
+Voici les résultats (la langue pivot est l'anglais) :
 
 ![alt text][fig2]
 
