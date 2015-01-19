@@ -65,6 +65,9 @@ Voici les résultats (la langue pivot est l'anglais) :
 
 
 
+## Suite des travaux
+
+Une suite des travaux existe, avec une extension de la méthode décrite ici. Il s'agit de [Extended pivot-based approach for bilingual lexicon extraction (2014) par Seo, Kwon & Kim](http://www.researchgate.net/profile/Hyeongwon_Seo/publication/268049712_Extended_pivot-based_approach_for_bilingual_lexicon_extraction/links/546073450cf27487b450c275.pdf) [(résumé ici)](https://github.com/allinard/Multi-alignement-en-corpus-comparables/blob/master/Articles/resumeSeoKwonKim14.md)
 
 
 ## Et si on faisait avec des corpus parallèles ?!
