@@ -2,7 +2,7 @@
 ---------
 
 ### En quelques mots : 
-Définition du tuilage d'alignements. Il s'agit dans notre cas d'une aide à la définition d'une langue pivot. Il s'agit dans les travaux de _Kraif_ de corpus *parallèles*.
+Définition du tuilage d'alignements. Il s'agit dans notre cas d'une aide à la définition d'une langue pivot. Il s'agit, dans les travaux de _Kraif_, de corpus *parallèles*.
 
 
 ## Contexte
