@@ -82,9 +82,31 @@ Les résultats (F-score) sont au mieux de
 
 ## Améliorations pour l'acquisition de terminologie bilingue
 
-Structure du modèle de traduction en 2 étapes basé sur des corpus comparables (CLIR) :
+
+####  Modèle de traduction en 2 étapes basé sur des corpus comparables
+
+Le protocole est le suivant :
+* On réalise une acquisition terminologique bilingue de la langue source vers la langue cible (1er modèle de traduction), et on obtient des vecteurs de similarité LS->LC
+* On réalise une acquisition terminologique bilingue de la langue cible vers la langue source (2nd modèle de traduction), et on obtient des vecteurs de similarité LC->LS
+* On fusionne les deux modèles de traduction précédents (par conséquent, depuis un corpus comparable bi-directionnel), et on obtient des vecteurs de similarité LS<->LC
+
+Ensuite, les vecteurs de chaque terme source et chaque terme cible sont calculés pour obtenir un modèle de traduction probabilistique.
+
+Voici la structure du modèle de traduction en 2 étapes basé sur des corpus comparables :
 
 ![alt text][fig2]
+
+
+
+
+#### Elagage basé sur la linguistique
+
+Blabla
+
+
+
+
+#### Modèle hybride proposé pour l'acquisition de terminologie bilingue à partir de corpus comparables
 
 
 Conception globale du modèle proposé pour l'acquisition de terminologie bilingue à partir de corpus comparables (CLIR) :
