@@ -101,15 +101,15 @@ Voici la structure du modèle de traduction en 2 étapes basé sur des corpus co
 
 #### Elagage basé sur la linguistique
 
-Blabla
+Ce qui est proposé est une technique d'élagage des traductions candidates retournées basée sur la connaissance morphologique (POS). L'idée est que deux termes dans deux langues distinctes sont assez proches pour partager la même partie du discours (ou une POS proche).
 
+La technique est restreintes aux noms, verbes, adjectifs, adverbes (bien que d'autres POS peuvent être prises en compte). Pour cela, les noms en LS sont comparés avec les noms en LC, les verbes LS avec les verbes LC etc.
 
 
 
 #### Modèle hybride proposé pour l'acquisition de terminologie bilingue à partir de corpus comparables
 
-
-Conception globale du modèle proposé pour l'acquisition de terminologie bilingue à partir de corpus comparables (CLIR) :
+Conception globale du modèle proposé pour l'acquisition de terminologie bilingue à partir de corpus comparables en réalisant un élagage basé sur la partie du discours :
 
 ![alt text][fig3]
 
