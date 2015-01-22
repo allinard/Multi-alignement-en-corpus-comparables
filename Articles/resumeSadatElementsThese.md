@@ -18,3 +18,21 @@ L'approche avec corpus parallèles a été plus parcourue que celle avec corpus 
 
 ## Extraction de lexiques bilingues à partir de corpus comparables et de thésaurus multilingue
 
+Article de [Sadat, Déjean & Gaussier (2002)](http://acl-arc.comp.nus.edu.sg/archives/acl-arc-090501d3/data/pdf/anthology-PDF/C/C02/C02-1166.pdf)
+
+![alt text][fig1]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[fig1]: https://github.com/allinard/Multi-alignement-en-corpus-comparables/blob/master/Articles/images/sadat1.png "Structure générale de la méthode proposée"
