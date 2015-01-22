@@ -120,11 +120,34 @@ Conception globale du modèle proposé pour l'acquisition de terminologie biling
 
 #### Expérimentations
 
-Précision et Rappel des modèles de traduction avec corpus comparables et élagage basé sur la linguistique : 
+Ressources :
+* articles de _Mainichi Newspapers (1998-1999)_ (jap) et _Mainichi Daily News_ (en)
+* analyseurs morphologiques _ChaSen_ (jap) et _OAK_ (en)
+* dictionnaires bilingues _EDT_ et _EDICT_
+* _KAKASI_ pour la translitération du japonais
+* _NTCIR-2_ pour la collection de test
+* système de recherche d'information _SMART_
+
+Diverses formules ont été expérimentées pour le calcul de certaines mesures. Les graphiques sont établis selon la configuration suivante :
+* tf : augmented normalized
+* idf : inverse document frequency weight (tf-idf)
+* vector normalization : aucune
+* tf : pas de changement
+* idf : inverse document frequency weight (tf-idf)
+* vector normalization : cosinus
+
+Différentes courbes sont présentées :
+* ME-long : Monolingual English-long
+* ME-short : Monolingual English-short
+* SCC : Linear Combination One-stage comp. and Dictionnary and Transliteration
+* BCC : Linear Combination Two-stage comp. and Dictionnary and Transliteration
+* BCC+Morph : Linear Combination Two-stage comp. and Dictionnary and Transliteration and Morph
+
+Précision et Rappel (au TOP5) des modèles de traduction avec corpus comparables et élagage basé sur la linguistique : 
 
 ![alt text][fig4]
 
-Précision et Rappel des modèles de traduction avec corpus comparables, élagage basé sur la linguistique, et combinaisons linéaires améliorées avec élagage basé sur la linguistique : 
+Précision et Rappel (au TOP5) des modèles de traduction avec corpus comparables, élagage basé sur la linguistique, et combinaisons linéaires améliorées avec élagage basé sur la linguistique : 
 ![alt text][fig5]
 
 
