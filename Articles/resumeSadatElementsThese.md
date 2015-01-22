@@ -32,6 +32,7 @@ Les thésaurus (liste organisée de termes représentant les concepts d'un domai
 TODO
 
 Voici le schéma résultant du modèle de traduction hybride impliquant l'utilisation de corpus comparables, de thésaurus multilingue et de dictionnaire bilingue :
+
 ![alt text][fig1]
 
 
