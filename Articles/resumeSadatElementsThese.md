@@ -2,7 +2,7 @@
 ---------
 
 ### En quelques mots : 
-B
+Il s'agit ici d'éléments de thèse sur l'extraction de lexiques bilingues
 
 
 ## Ce qui existe
@@ -20,15 +20,29 @@ L'approche avec corpus parallèles a été plus parcourue que celle avec corpus 
 
 Article de [Sadat, Déjean & Gaussier (2002)](http://acl-arc.comp.nus.edu.sg/archives/acl-arc-090501d3/data/pdf/anthology-PDF/C/C02/C02-1166.pdf)
 
+L'idée à la base, dans l'extraction de lexiques bilingues à partir de corpus comparables est la suivante :
+* On se base sur le principe des collocations similaires, c'est-à-dire qu'on considère que si deux mots sont des traductions mutuelles, alors leurs colloquants les plus fréquents seront, entre eux, des traductions mutuelles possible.
+* ...c'est pourquoi on calcule les vecteurs de contexte source et les vecteurs de contexte cible des mots du corpus en langue source et ceux du corpus en langue cible
+* On traduit ensuite les vecteurs de contexte grace à un dictionnaire bilingue LS-LC
+* On calcule la similarité (cosinus) de chaque mot source avec chaque mot cible
+* On normalise les probabilités et on obtient des traductions candidates
+
+Les thésaurus (liste organisée de termes représentant les concepts d'un domaine) multilingues établissent un rapprochement entre plusieurs langues grâce aux correspondances mulilingues entre des classes de concept. Une classe de concept dans le thésaurus lie des noms alternatifs d'un même concept ensemble.
+
+TODO
+
+Voici le schéma résultant du modèle de traduction hybride impliquant l'utilisation de corpus comparables, de thésaurus multilingue et de dictionnaire bilingue :
 ![alt text][fig1]
 
 
 
 
 
+## Améliorations pour l'acquisition de terminologie bilingue
 
+TODO - CLIR
 
-
+TODO - Schéma CLIR
 
 
 
