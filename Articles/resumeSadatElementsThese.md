@@ -29,11 +29,31 @@ L'idée à la base, dans l'extraction de lexiques bilingues à partir de corpus 
 
 Les thésaurus (liste organisée de termes représentant les concepts d'un domaine) multilingues établissent un rapprochement entre plusieurs langues grâce aux correspondances mulilingues entre des classes de concept. Une classe de concept dans le thésaurus lie des noms alternatifs d'un même concept ensemble.
 
-TODO
+Dans notre cas, le thésaurus peut aider en trouvant des correspondances entre les classes de concept entre les langues afin de sélectionner la meilleure traduction d'un mot. Le protocole proposé est donc le suivant :
+* Pour chaque mot source, et pour chaque mot cible, on calcule la probabilité de la classe de concept du mot source et la probabilité du mot cible selon cette même classe de concept
+  * pour cela on recourt aux vecteurs de contexte (car si un mot du corpus est similaire à un terme présent dans la classe de concept, alors ils ont de fortes chances de partager le même contexte et d'avoir des vecteurs de contexte proches)
+  * pour calculer le vecteur de contexte d'une classe de concept, on fait la somme des vecteurs de contexte de tous les termes de la classe. Ainsi, on arrive à determiner la similarité entre un mot et un concept en calculant la similarité (cosinus).
+* Pour chaque paire de mot (LS-LC), on sélectionne les classes de concept à utiliser
+  * soit en prenant en compte toutes les classes de concept du thésaurus
+  * soit en ...
+  * soit 
+* On calcule la probabilité de la traduction en LC d'un mot en LS d'après les classes de concept sélectionnées (pour cela on fait la somme, pour toutes les classes de concept sélectionnées, du produit de la proba de la classe de concept du mot source et de la proba du mot cible d'appartenir à la classe de concept)
 
-Voici le schéma résultant du modèle de traduction hybride impliquant l'utilisation de corpus comparables, de thésaurus multilingue et de dictionnaire bilingue :
+
+
+
+Voici le schéma résultant du modèle de traduction hybride proposé par Sadat, impliquant l'utilisation de corpus comparables, de thésaurus multilingue et de dictionnaire bilingue :
 
 ![alt text][fig1]
+
+
+
+#### Expérimentations
+
+Les résultats obtenus...
+
+
+
 
 
 
@@ -41,13 +61,36 @@ Voici le schéma résultant du modèle de traduction hybride impliquant l'utilis
 
 ## Améliorations pour l'acquisition de terminologie bilingue
 
-TODO - CLIR
+Structure du modèle de traduction en 2 étapes basé sur des corpus comparables (CLIR) :
 
-TODO - Schéma CLIR
-
-
+![alt text][fig2]
 
 
+Conception globale du modèle proposé pour l'acquisition de terminologie bilingue à partir de corpus comparables (CLIR) :
+
+![alt text][fig3]
 
 
-[fig1]: https://github.com/allinard/Multi-alignement-en-corpus-comparables/blob/master/Articles/images/sadat1.png "Structure générale de la méthode proposée"
+
+
+
+
+#### Expérimentations
+
+Précision et Rappel des modèles de traduction avec corpus comparables et élagage basé sur la linguistique : 
+
+![alt text][fig4]
+
+Précision et Rappel des modèles de traduction avec corpus comparables, élagage basé sur la linguistique, et combinaisons linéaires améliorées avec élagage basé sur la linguistique : 
+![alt text][fig5]
+
+
+
+
+
+
+[fig1]: https://github.com/allinard/Multi-alignement-en-corpus-comparables/blob/master/Articles/images/sadat1.png "Structure générale du modèle de traduction hybride (corpus comparables - dictionnaire bilingue - thésaurus multilingue)"
+[fig2]: https://github.com/allinard/Multi-alignement-en-corpus-comparables/blob/master/Articles/images/sadat2.png "Structure du modèle de traduction en 2 étapes basé sur des corpus comparables (CLIR)"
+[fig3]: https://github.com/allinard/Multi-alignement-en-corpus-comparables/blob/master/Articles/images/sadat3.png "Conception globale du modèle proposé pour l'acquisition de terminologie bilingue à partir de corpus comparables (CLIR)"
+[fig4]: https://github.com/allinard/Multi-alignement-en-corpus-comparables/blob/master/Articles/images/sadat4.png "P/R des modèles de traduction avec corpus comparables et élagage basé sur la linguistique"
+[fig5]: https://github.com/allinard/Multi-alignement-en-corpus-comparables/blob/master/Articles/images/sadat5.png "P/R des modèles de traduction avec corpus comparables, élagage basé sur la linguistique, et combinaisons linéaires améliorées avec élagage basé sur la linguistique"
