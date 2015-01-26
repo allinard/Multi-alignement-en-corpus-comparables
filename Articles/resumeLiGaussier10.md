@@ -5,13 +5,19 @@
 Le but des travaux ici est d'améliorer la qualité des corpus comparables utilisé pour la tâche d'extraction de lexiques bilingues en définissant une mesure de comparabilité et une stratégie d'amélioration de la qualité d'un corpus donné. 
 
 
-
-## Intro
-
+## Etat de l'art
+Ce qui existe :
+* extraction de lexiques bilingues à partir de corpus *parallèles*
+* extraction de lexiques bilingues à partir de corpus *comparables*
+* la notion de comparabilité :
+ * peu comparable
+ * très comparable
+ * parallèle
 
 
 
 ## Mesure de la comparabilité
+Proposition d'une mesure de comparabilité basée sur la prévision de trouver la traduction de chaque mot du corpus. La mesure est "très légère" et ne dépend pas de ressources complexes comme un système de traduction automatique.
 
 
 
