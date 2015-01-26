@@ -45,20 +45,35 @@ Ré-estimation du comptage des co-occurrences avec une fonction de prédiction. 
 
 ## Expérimentations 
 Les ressources sont les suivantes :
-* A
-* B
-* C
-* D
-* E
-* F
+* Deux corpus, tokenisés, POS-taggés et lemmatisés par TermSuite 
+  * Corpus sur le cancer du sein (530k mots FR - 7.4M mots EN divisé en 14 parties de 530k mots chacune)
+  * Corpus sur le diabète (257k mots FR - 3.5M mots EN divisé en 14 parties de 250k mots chacune)
+* Dictionnaire FR-EN généraliste ELRA
+* Listes de référence terminologiques du méta-thésaurus UMLS
+  * 169 fr/en mots simples pour le cancer du sein
+  * 244 fr/en mots simples pour le diabète
 
 
 #### Evaluation de l'approche standard
 
+![alt text][fig1]
+
 
 #### Evaluation de l'approche prédictive
 
+![alt text][fig2]
+
+
+![alt text][fig3]
 
 
 
+
+
+
+
+
+[fig1]: https://github.com/allinard/Multi-alignement-en-corpus-comparables/blob/master/Articles/images/MorinHazemFig1.png "MAP approche standard"
+[fig2]: https://github.com/allinard/Multi-alignement-en-corpus-comparables/blob/master/Articles/images/MorinHazemFig2.png "MAP approche modèle de regression"
+[fig3]: https://github.com/allinard/Multi-alignement-en-corpus-comparables/blob/master/Articles/images/MorinHazemFig3.png "MAP approche standard avec la meilleure configuration"
 
