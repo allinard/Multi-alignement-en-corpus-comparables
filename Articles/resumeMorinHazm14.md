@@ -56,17 +56,36 @@ Les ressources sont les suivantes :
 
 #### Evaluation de l'approche standard
 
-Résultats de l'approche standard en montrant les différences entre corpus équilibré et déséquilibré () :
+Résultats de l'approche standard (MAP) en montrant les différences entre corpus équilibré et déséquilibré :
+* _balanced_ : le numéro de colonne correspond à la strate du corpus anglais utilisé en tant que corpus anglais
+* _unbalanced_ : le numéro de colonne correspond aux **n** premières strate du corpus anglais utilisées en tant que corpus anglais
 
 ![alt text][fig1]
 
 
 #### Evaluation de l'approche prédictive
 
+Comparaison des modèles de regression avec les meilleurs résulats (cf. tab. précédent) (cancer du sein, corpus 12 - diabète, corpus 7) :
+* _No prediction_ : approche standard
+* _Lin_ : modèle de régression linéaire simple
+* _Poly2_ : régression polynomiale du second ordre
+* _Poly3_ : régression polynomiale du troisième ordre
+* _Logit_ : modèle de régression logistique
+
+![alt text][fig3]
+
+
+
+Comparaison entre :
+* _No prediction_ : approche standard (sans prédiction)
+* _Source pred_ : prédiction côté source
+* _Target pred_ : prédiction côté cible
+* _Source pred + Target pred_ : prédiction côté source et côté cible
+
 ![alt text][fig2]
 
 
-![alt text][fig3]
+
 
 
 ![alt text][fig4]
