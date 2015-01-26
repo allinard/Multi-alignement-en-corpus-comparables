@@ -86,7 +86,7 @@ Comparaison entre :
 
 
 
-
+Graphiques récapitulatifs :
 
 ![alt text][fig4]
 
