@@ -28,16 +28,17 @@ Ré-estimation du comptage des co-occurrences avec une fonction de prédiction. 
 
 
 #### Autres
-* [ ()]() :
-* [ ()]() :
-* [ ()]() :
-* [ ()]() :
-* [ ()]() :
-* [ ()]() :
-* [ ()]() :
-* [ ()]() :
-* [ ()]() :
-
+* [Prochasson & al. (2009)]() : renforcement des mots du contexte qui sont des translitérations ou des mots composés scientifiques dans la langue cible
+* [Ismail & Manandhar (2010)]() : filtrage du bruit dans les vecteurs de contexte en considérant les mots pertinents du domaine
+* [Rubino & Linarès (2011)]() : amélioration des mots du contexte sur le fait qu'un mot et sa traduction partagent des similarités thématiques _(approche par thésaurus ???)_
+* [Yu & Tsujii (2009)]() : remplacement de la méthode fenêtre par une méthode basée sur la syntaxe (amélioration de la représentation du contexte lexical)
+* [Morin & Prochasson (2011)]() : combinaison d'un dictionnaire général et d'un dictionnaire spécialisé
+* [Déjean & al. (2002)]() : utilisation d'un thésaurus spécialisé
+* [Koehn & Knight (2002)]() : utilisation de cognats et de contextes similaires
+* [Bouamor & al. (2013)]() : désambiguïsation dans la langue cible
+* [Gaussier & al. (2004)]() : désambiguïsation dans la langue source et la langue cible en utilisant Canonical Correlation Analysis et Probabilistic Latent Semantic Analysis
+* [Chiao & Zweigenbaum (2002)]() : distibution symétrique des mots
+* [Laroche & Langlais (2010)]() : similarité graphique entre les termes source et cible
 
 
 
