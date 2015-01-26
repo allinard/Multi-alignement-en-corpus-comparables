@@ -67,7 +67,7 @@ Les ressources sont les suivantes :
 ![alt text][fig3]
 
 
-
+![alt text][fig4]
 
 
 
@@ -75,5 +75,6 @@ Les ressources sont les suivantes :
 
 [fig1]: https://github.com/allinard/Multi-alignement-en-corpus-comparables/blob/master/Articles/images/MorinHazemFig1.png "MAP approche standard"
 [fig2]: https://github.com/allinard/Multi-alignement-en-corpus-comparables/blob/master/Articles/images/MorinHazemFig2.png "MAP approche modèle de regression"
-[fig3]: https://github.com/allinard/Multi-alignement-en-corpus-comparables/blob/master/Articles/images/MorinHazemFig3.png "MAP approche standard avec la meilleure configuration"
+[fig3]: https://github.com/allinard/Multi-alignement-en-corpus-comparables/blob/master/Articles/images/MorinHazemFig3.png "Comparaison des modèles de regression"
+[fig4]: https://github.com/allinard/Multi-alignement-en-corpus-comparables/blob/master/Articles/images/MorinHazemFig4.png "MAP approche standard avec la meilleure configuration"
 
