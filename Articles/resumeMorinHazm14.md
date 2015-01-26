@@ -56,6 +56,8 @@ Les ressources sont les suivantes :
 
 #### Evaluation de l'approche standard
 
+Résultats de l'approche standard en montrant les différences entre corpus équilibré et déséquilibré () :
+
 ![alt text][fig1]
 
 
