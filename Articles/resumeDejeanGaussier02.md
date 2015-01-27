@@ -22,8 +22,16 @@ Deux corpus de deux langues l1 et l2 sont dits comparables s'il existe une sous-
 
 ## Sémantique distributionnelle et corpus comparables
 
+Hypothèses existantes :
+* si deux mots ont des distributions similaires, alors ils sont reliés sémantiquement
+* les mots dont les distributions sont les plus similaires à celle d'un mot donné sont, avec une forte probabilité, sémantiquement reliés à ce mot
+* les mots de la langue l1 dont les distributions normalisées sont les plus similaires à la distribution d'un mot donné de la langue l2 sont, avec une forte probabilité, traduction de ce mot
+* deux mots de l1 et l2 sont, avec une forte probabilité, traduction l'un de l'autre si leurs similarités avec les entrées des ressources bilingues disponibles sont proches
 
 
+
+
+## Extraction de lexique bilingue
 
 
 
@@ -33,11 +41,22 @@ Deux corpus de deux langues l1 et l2 sont dits comparables s'il existe une sous-
 ## Expérimentations
 
 #### Données
-
+* Deux corpus EN-DE segmentés (DE), lemmatisés et étiquetés :
+  * Corpus _MUCHMORE_ **parallèle _bruité_** EN-DE de 845 résumés d'articles scientifiques sur la chirurgie provenant de la base de données MEDLINE
+  * Corpus _GIRT_ de CLEF2002 constitué de 86k articles DE et équivalent en EN
+* Dictionnaire ELRA EN-DE
+* Méta-thésaurus UMLS comprenant 2 thésaurus allignés :
+  * Thésaurus EN du MeSH
+  * Thésaurus DE du DMD
+* lexique de référence extrait manuellement
+  * _MUCHMORE_ : 1800 mots
+  * _GIRT_ : 180 mots
 
 
 
 #### Résultats
+
+Evalution P, R, F, sur le TOP1..20
 
 Méthode standard (traduction des vecteurs de contexte) - Corpus médical
 
