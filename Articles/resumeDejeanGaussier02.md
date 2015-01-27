@@ -33,9 +33,18 @@ Hypothèses existantes :
 
 ## Extraction de lexique bilingue
 
+#### Approche directe
+* pour chaque mot, construction du vecteur de contexte (dans une fenêtre de n phrases autour de la phrase contenant le mot (en gal. n=1) avec une pondération de type information mutuelle)
+* les vecteurs de ctxt. des mots de l1 sont traduits en l2 avec un dictionnaire bilingue
+* comparaison des vect. ctxt. l1 et l2 (similarité cosinus)
+* normalisation des valeurs de similarité et renvoi des traductions candidates
 
+#### Approche par similarité interlangue
+Basé sur l'hypothèse "deux mots de l1 et l2 sont, avec une forte probabilité, traduction l'un de l'autre si leurs similarités avec les entrées des ressources bilingues disponibles sont proches"
 
-
+Deux approches :
+* plate : pas de structure
+* hiérarchique : utilise la structure du thésaurus
 
 
 ## Expérimentations
