@@ -51,6 +51,18 @@ Un dictionnaire biligue
 * 27k mots FR
 
 
+#### Résultats
 
 
 
+![alt text][fig1]
+
+
+
+
+
+
+
+
+
+[fig1]: https://github.com/allinard/Multi-alignement-en-corpus-comparables/blob/master/Articles/images/LiGaussierFig1.png "Résultats"
