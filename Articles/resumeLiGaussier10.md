@@ -80,7 +80,7 @@ Mesure de similarité améliorée : pour deux mots, poids fort si les mots appar
 Evaluation (au TOP20) suivant :
 * la fréquence des mots :
  * mots dont la fréq. < 100 (WL)
- * mots dont la fréq. > 400 (WL)
+ * mots dont la fréq. > 400 (WH)
  * mots 100 < fréq. < 400 (WM)
 * les corpus :
  * corpus de base (C0), composé de GH95 et SDA95
