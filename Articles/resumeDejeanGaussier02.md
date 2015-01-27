@@ -39,21 +39,48 @@ Deux corpus de deux langues l1 et l2 sont dits comparables s'il existe une sous-
 
 #### Résultats
 
-
-
-
-
+Méthode standard (traduction des vecteurs de contexte) - Corpus médical
 
 ![alt text][fig1]
-![alt text][fig1]
+
+
+
+
+Méthode plate - Corpus médical (évaluation en fonction du nombre d'entrées considérées)
+
+![alt text][fig2]
+
+
+
+
+Méthode hiérarchique (évaluation en fonction du nombre d'entrées)
+
+![alt text][fig3]
+
+
+
+
+
+Evaluation méthode plate/standard - Corpus GIRT
+
+![alt text][fig4]
+
+
+
+
+
+Combinaison de la méthode standard et des nouvelles méthodes proposées - Corpus médical
+
+![alt text][fig5]
 
 
 
 
 
 
-[fig1]: https://github.com/allinard/Multi-alignement-en-corpus-comparables/blob/master/Articles/images/DejeanGaussierFig1.png " "
-[fig2]: https://github.com/allinard/Multi-alignement-en-corpus-comparables/blob/master/Articles/images/DejeanGaussierFig2.png " "
-[fig3]: https://github.com/allinard/Multi-alignement-en-corpus-comparables/blob/master/Articles/images/DejeanGaussierFig3.png " "
-[fig4]: https://github.com/allinard/Multi-alignement-en-corpus-comparables/blob/master/Articles/images/DejeanGaussierFig4.png " "
-[fig5]: https://github.com/allinard/Multi-alignement-en-corpus-comparables/blob/master/Articles/images/DejeanGaussierFig5.png " "
+
+[fig1]: https://github.com/allinard/Multi-alignement-en-corpus-comparables/blob/master/Articles/images/DejeanGaussierFig1.png "Méthode standard (traduction des vecteurs de contexte) - Corpus médical"
+[fig2]: https://github.com/allinard/Multi-alignement-en-corpus-comparables/blob/master/Articles/images/DejeanGaussierFig2.png "Méthode plate - Corpus médical (évaluation en fonction du nombre d'entrées considérées)"
+[fig3]: https://github.com/allinard/Multi-alignement-en-corpus-comparables/blob/master/Articles/images/DejeanGaussierFig3.png "Méthode hiérarchique (évaluation en fonction du nombre d'entrées)"
+[fig4]: https://github.com/allinard/Multi-alignement-en-corpus-comparables/blob/master/Articles/images/DejeanGaussierFig4.png "Evaluation méthode plate/standard - Corpus GIRT"
+[fig5]: https://github.com/allinard/Multi-alignement-en-corpus-comparables/blob/master/Articles/images/DejeanGaussierFig5.png "Combinaison de la méthode standard et des nouvelles méthodes proposées - Corpus médical"
