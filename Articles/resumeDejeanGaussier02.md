@@ -42,9 +42,15 @@ Hypothèses existantes :
 #### Approche par similarité interlangue
 Basé sur l'hypothèse "deux mots de l1 et l2 sont, avec une forte probabilité, traduction l'un de l'autre si leurs similarités avec les entrées des ressources bilingues disponibles sont proches"
 
+L'idée est de, grâce à un thésaurus, d'établir (comme toute ressource multilingue) un pont entre plusieurs langues, et (pour le thésaurus en particulier), une correspondance entre classes conceptuelles d'un mot.
+
+Pour cela, le protocole est le suivant :
+* établissement des classes les plus proches
+* chemin minimal entre chaque paire des classes les plus proches (structure du thésaurus)
+
 Deux approches :
 * plate : pas de structure
-* hiérarchique : utilise la structure du thésaurus
+* hiérarchique : utilise la structure du thésaurus (arbre)
 
 
 ## Expérimentations
