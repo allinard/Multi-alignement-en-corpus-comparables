@@ -1,0 +1,1 @@
+signal conditions	condiciones de la señal

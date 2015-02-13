@@ -1,0 +1,165 @@
+term	SWT vs MWT	Nature of the term (CE vs. NE )	pattern	morpho. tag	inflected forms	frequency (lemma and forms)	most frequent form used	frequency of most frequent form used	variant (lemma)	frequency (lemma and forms)	type of variant	synonymic variant	inflected forms of the variant	most frequent form used	frequency of most frequent form used	collocational uses	
+#SWT 																	
+Aktualisierung	SWT	NE	N	Ncfsn	Aktualisierung, Aktualisierungen, aktualisierung	151	Aktualisierung	106								Aktualisierungsrate	
+App	SWT	loan	N	Ncnsn	App, Apps	130	App	66									
+Anwendung	SWT	NE	N	Ncfsn	Anwendung, Anwendungen, anwendungen, ANWENDUNG	107	Anwendungen	87									
+Authentifizierung	SWT	NE	N	Ncfsn	Authentifizierung	11	Authentifizierung	11								Authentifizierungsversuch, Authentifzierungsliste	
+Autohalterung	SWT	NE	N	Ncfsn	Autohalterung	58	Autohalterung	58									
+Bandbreite	SWT	NE	N	Ncfsn	Bandbreite, Bandbreiten	38	Bandbreite	36								Bandbreitenausnutzung	
+Bluetooth	SWT	loan	N	Nc--n	Bluetooth	301	Bluetooth	301									
+Branding	SWT	loan	N	Ncnsn	Branding	58	Branding	58									
+Browser	SWT	loan	N	Ncmsn	Browser, browser	88	Browser	87									
+Datum	SWT	NE	N	Ncnsp	Daten	93	Datum	93								Datenübertragung, Datenrate, Datenaustausch	
+Empfang	SWT	NE	N	Ncmsn	Empfang, empfang, Empfangs	49	Empfang	39								Empfangsteil, Empfangsleistung, Empfangsschwierigkeit	
+Empfänger	SWT	NE	N	Ncmsn	Empfänger, Empfängern	56	Empfänger	55								Empfängermodul, Empfängeradresse	
+Festnetz	SWT	NE	N	Ncnsn	Festnetz, Festnetze, festnetz	34	Festnetz	31								Festnetztelefon, Festnetzzugang, Festnetzanschluss	
+Flatrate	SWT	NE	N	Ncfsn	Flatrate, Flatrates	28	Flatrate	15									
+Frequenz	SWT	NE	N	Ncfsn	Frequenz	69	Frequenz	69									
+Geotagging	SWT	NE	N	Ncnsn	Geotagging, geotagging	99	Geotagging	98									
+Handy	SWT	NE	N	Ncnsn	Handy, Handys	3207	Handy	2196									
+Hardware	SWT	loan	N	Ncfsn	Hardware, hardware, HARDWARE	36	Hardware	23								Hardwareanforderung	
+Headset	SWT	loan	N	Nsnsn	Headset, Headsets	122	Headset	118									
+Installation	SWT	NE	N	Ncfsn	Installation, installation, Installationen	68	Installation	59									
+Interferenz	SWT	NE	N	Ncfsn	Interferenz, Interferenzen	11	Interferenzen	6								Interferenzreduktionsverfahren, Interferenzstörung	
+Kanal	SWT	NE	N	Ncnsn	Kanal	22	Kanal	22								Kanalwechsel, Kanalwahl	
+Klingelton	SWT	NE	N	Ncmsn	Klingelton, Klingeltöne	194	Klingeltöne	122									
+Kommunikation	SWT	NE	N	Ncfsn	Kommunikation	79	Kommunikation	79								Kommunikationstechnik, Kommunikationsform	
+Kurzmitteilung	SWT	NE	N	Ncfsn	Kurzmitteilung, Kurzmitteilungen, kurzmitteilung	23	 Kurzmitteilungen	14									
+Laufwerk	SWT	NE	N	Ncnsn	Laufwerk, laufwerke, laufwerk, Laufwerke	45	Laufwerk	18									
+Lüfter	SWT	NE	N	Ncmsn	Lüfter	62	Lüfter	62									
+Mainboard	SWT	loan	N	Ncnsn	Mainboard	121	Mainboard	121									
+Megapixel	SWT	loan	N	Ncnsn	Megapixel, Megapixeln, Megapixels	265	Megapixel	256									
+Mitteilung	SWT	NE	N	Ncfsn	Mitteilung, Mitteilungen	107	Mitteilungen	106									
+Multiformat	SWT	NE	N	Ncnsn	Multiformat	20	Multiformat	20									
+Multitasking	SWT	loan	N	Ncnsn	Multitasking	37	Multitasking	37									
+Netbook	SWT	loan	N	Ncnsn	Netbook, netbook, Netbooks, NETBOOK	295	Netbook	198									
+Netz	SWT	NE	N	Ncnsn	Netz, Netzes, Netzen, Netze	51	Netz	23								Netzwerk, Netzbetreiber, Netzabdeckung	
+Netzteil	SWT	NE	N	Ncnsn	Netzteil, netzteil, NETZTEIL, Netzteile, netzteile	450	Netzteil	355									
+Polarisation	SWT	NE	N	Ncfsn	Plarisation	11	Plarisation	11								Polarisationsdrehung	
+Prepaid	SWT	loan	N	Ncnsn	Prepaid, PrePaid, prepaid	47	Prepaid	43								Prepaid-Karte	
+Profil	SWT	NE	N	Ncnsn	Profil, Profile, Profilen	43	Profile	38									
+Prozessor	SWT	NE	N	Ncmsn	Prozessor, prozessor, prozessoren	192	Prozessor	97									
+Provider	SWT	loan	N	Ncmsn	Provider, Providers, Providern	53	Provider	48									
+Reflexion	SWT	NE	N	Ncfsn	Reflexion, Reflexionen	10	Reflexion	6								Reflexionsfläche	
+Reichweite	SWT	NE	N	Ncfsn	Reichweite, reichweite, Reichweiten	22	Reichweite	17									
+Roaming	SWT	loan	N	Ncnsn	Roaming	85	Roaming	85								Datenroaming, Roaming-Funktion	
+Rundfunk	SWT	NE	N	Ncnsn	Rundfunk	9	Runkfunk	9									
+Sender	SWT	NE	N	Ncmsn	Sender, Senders, Sendern	42	Sender	37									
+Signal	SWT	NE	N	Ncnsn	Signal, Signale, SIGNALE, Signals, signal, signale	33	Signal	20								Signalempfang, Signaleinstellung	
+Simlock	SWT	loan	N	Ncnsn	Simlock	43	Simlock	43									
+SIM-Karte	SWT	NE	N	Ncfsn	SIM-Karte, SIM-Karten	15	SIM-Karte	11									
+Smartphone	SWT	loan	N	Ncnsn	Smartphone, Smartphones	437	Smartphone	347									
+Standby	SWT	loan	N	Ncnsn	Standby	228	Standby	228									
+Strahlung	SWT	NE	N	Ncfsn	Strahlung	27	Strahlung	27								Strahlungsfeld, Strahlungsfrequenz	
+Streaming	SWT	loan	N	Ncnsn	Streaming	31	Streaming	31									
+Synchronisation	SWT	NE	N	Ncfsn	Synchronisation	12	Synchronisation	12									
+Tarif	SWT	NE	N	Ncmsn	Tarife, Tarif, Tarifen, Tarifs, tarif, tarife	94	Tarife	53								Tarifoption, Tarifwechsel, Datentarif, Volumtarif	
+Telekommunikation	SWT	NE	N	Ncfsn	Telekommunikation	119	Telekommunikation	119									
+Touchscreen	SWT	loan	N	Ncmsn	Touchscreen, touchscreen	295	Touchscreen	294									
+Triband	SWT	NE	N	Ncnsn	Triband	35	Triband	35								Tribandhandy	
+Verbindung	SWT	NE	N	Ncfsn	Verbindung	67	Vebindung	56								Verbindungsaufbau, Verbindungsqualität, Verbindungsaufnahme	
+Verschlüsselung	SWT	NE	N	Ncfsn	Verschlüsselung	62	Verschlüsselung	62								Verschlüsselungstechnik	
+Videoplayer	SWT	NE	N	Ncmsn	Videoplayer	56	Videoplayer	56									
+Videotelefonie	SWT	NE	N	Ncfsn	Videotelefonie	104	Videotelefonie	104									
+Webcam	SWT	loan	N	Ncfsn	Webcam, Webcam, webcams, WEBCAM, Webcams	68	webcam	33									
+WLAN	SWT	loan	N	Ncnsn	WLAN, Wlan, Wlan, wlan	361	WLAN	237									
+Zelle	SWT	NE	N	Ncfsn	Zelle, Zellen	49	Zellen	31									
+Zoom	SWT	NE	N	Ncmsn	Zoom, zoom	88	Zoom	86								Zoombereich	
+benutzerfreundlich	SWT	NE	A	A-p---	Benutzerfreundliches, benutzerfreundliche, benutzerfreundlichen	13	benutzerfreundlichen	7								benutzerfreundliches Betriebssystem	
+digital	SWT	NE	A	A-p---	Digitaler, digitaler, Digitales, digitales, Digitale, digitale, digitalem, Digitalen, digitalen	141	digitale	59								digitales DECT, digitales D-Netz, digitales E-Netz, digitale Datenübertragung	
+drahtlos	SWT	NE	A	A-p---	Drahtlose, drahtlose, drahtloser, Drahtloses, drahtloses, drahtlosen	122	drahtloses	66								drahtloses Gerät, drahtlose Anbindung, drahtlose Kommunikation	
+elektromagnetisch	SWT	NE	A	A-p---	elektromagnetischer, Elektromagnetische, elektromagnetische, Elektromagnetischen, elektromagnetischen	30	elektromagnetischen	13									
+hochauflösend	SWT	NE	A	A-p---	Hochauflösende, hochauflösende, hochauflösendes, hochauflösenden	13	hochauflösende	10								hochauflösendes Display	
+hochfrequent	SWT	NE	A	A-p---	hochfrequente, hochfrequenter, hochfrequenten	8	hochfrequenten	4								hochfrequentenes elektromagnetisches Feld	
+installiert	SWT	NE	A	A-p---	installierte, installierter	32	installierter									fest installierte Infrastruktur	
+mobil	SWT	NE	A	A-p---	Mobile, mobile, Mobiler, mobiler, mobilere, mobilen, MOBILE	591	Mobile	296									
+schnurlos	SWT	NE	A	A-p---	Schnurlose, schnurlose, Schnurloses, schnurloses, schnurlosem, schnurlosen, schnurloser	88	Schnurloses	52									
+strahlungsarm	SWT	NE	A	A-p---	Strahlungsarme, strahlungsarme	8	strahlungsarme	7								strahlungsarmes Mobiltelefon, strahlungsarme Technik, strahlungsarme Mobilfunktechnik	
+aktualisieren	SWT	NE	V	Vmn-----	aktualisiert, aktualisierten	51	aktualisiert	50									
+herunterladen	SWT	NE	V	Vmn-----	heruntergeladen, herunterladen	10	heruntergeladen	6									
+implementieren	SWT	NE	V	Vmn-----	implementiert, implementieren	7	implementiert	6									
+integrieren	SWT	NE	V	Vmn-----	integrieren, integrieriert, Integriert	27	integriert	18									
+senden	SWT	NE	V	Vmn-----	Senden, senden, Sende, sendet, gesendet	67	senden	41									
+übertragen	SWT	NE	V	Vmn-----	Übertragen, übertragen, übertrage, überträgt	99	übertragen	88								Daten übertragen, per Funk übertragen,  Nummer übertragen	
+verbinden	SWT	NE	V	Vmn-----	Verbindet, verbindet, verbinden, verbunden, Verbunden,	71	verbindet	35									
+																	
+SWT Neoclassical																	
+Protokoll	SWT	CE	NN	Ncnsn	native	Protokoll, Protokolle	52	Protokoll	34								
+Telefon	SWT	CE	NN	Ncnsn	native	Telefon, Telefone, telefon, Telefons, telefone	663	Telefon	498								Telefonanlage, Telefonfunktion
+polyphon	SWT	CE	A	A-p---		Polyphone, polyphone	205	polyphone	196								
+synchron	SWT	CE	A	A-p---		synchrone, synchroner, synchronen	10	synchrone	5								synchrone und asynchrone Verbindungen, synchrone Datenübertragung
+synchronisieren	SWT	CE	V	Vmn-----	native	synchronisieren, synchronisiert	14	synchronisieren	13								Telefonbuch synchronisieren
+telefonieren	SWT	CE	V	Vmn-----	native	Telefoniert, telefoniert, telefonieren, telefoniere	82	telefonieren	71								
+																	
+MWT																	
+Akkulaufzeit	SWT (CP)		N	Ncfsn	Akkulaufzeit	239	Akkulaufzeit	239									
+Anrufbeantworter	SWT (CP)		N	Ncmsn	Anrufbeantworter, Anrufbeantworters, anrufbeantworter	57	Anrufbeantworter	53									
+Anrufererkennung	SWT (CP)		N	Ncfsn	Anrufererkennung	22	Anrufererkennung	22									
+Arbeitsspeicher	SWT (CP)		N	Ncnsn	native	Arbeitsspeicher, arbeitsspeicher	40	arbeitsspeicher	20								
+Ausgangsspannung	SWT (CP)		N	Ncfsn	native	Ausgangsspannung	51	Ausgangsspannung	51								
+Basisstation	SWT (CP)		N	Ncfsn	native	Basisstation, basisstation, Basisstationen	57	Basisstation	49								
+Betriebssystem	SWT (CP)		N	Ncmsn	native	Betriebssystem, Betriebssysteme	278	Betriebssystem	278								
+Bildmitteilung	SWT (CP)		N	Ncfsn	Bildmitteilung, Bildmitteilungen	12	Bildmitteilungen	10									
+Bildschirmdiagonale	SWT (CP)		N	Ncfsn	Bildschirmdiagonale	104	Bildschirmdiagonale	104									
+Bluetooth-Gerät	SWT (CP)		N	Ncnsn	Bluetooth-Gerät, Bluetooth-Geräte, Bluetooth-Gerätes, Bluetooth-Geräten	45	Bluetooth-Geräte	22	Bluetoothgerät	1	graphical	yes	Bluetoothgeräten	Bluetoothgeräten	1		
+Chipsatz	SWT (CP)		N	Ncmsn	native	Chipsatz, CHIPSATZ, chipsatz, chipsaetzen	104	Chipsatz	86								
+Datenkabel	SWT (CP)		N	Ncnsn	Datenkabel, Datenkabels, datenkabel	28	Datenkabel	25									
+Datenpaket	SWT (CP)		N	Ncnsn	Datenpaket, Datenpakets, Datenpakete, Datenpaketen	8	Datenpakete	6									
+Datenübertragung	SWT (CP)		N	Ncfsn	Datenübertragung, Datenübertragungen	19	Datenübertragung	17	Übertragung von Datum	4		yes	Übertragung von Daten	Übertragung von Daten	4	Datenübertragungsgeschwindigkeit, Datenübertragungsrate, Datenübertragungsstandard	
+Eingangsspannung	SWT (CP)		N	Ncfsn	native	Eingangsspannung, eingangsspannung	53	eingangsspannung	52								
+Empfangsanlage	SWT (CP)		N	Ncfsn	Empfangsanlagen	41	Empfangsanlagen	41									
+Empfangsqualität	SWT (CP)		N	Ncfsn	Empfangsqualität	185	Empfangsqualität	185									
+Flugzeugmodus	SWT (CP)		N	Ncmsn	native	Flugzeugmodus	31	Flugzeugmodus	31								
+Freisprecheinrichtung	SWT (CP)		N	Ncfsn	native	Freisprecheinrichtung, Freisprecheinrichtungen	52	Freisprecheinrichtung	51								
+Freifunk-Netz	SWT (CP)		N	Ncnsn	Freifunk-Netz, Freifunk-Netzes, Freifunk-Netze	9	Freifunk-Netz	4									
+Frequenzband	SWT (CP)		N	Ncnsn	native	Frequenzband, Frequenzbänder	16	Frequenzband	15	Frequenzenband	1	graphical	yes	FrequenzenbandFrequenzenband		1	
+Funkdienst	SWT (CP)		N	Ncmsn	native	Funkdienst, Funkdienste, Funkdiensten	15	Funkdienste	10								
+Funkgerät	SWT (CP)		N	Ncnsn	Funkgerät, Funkgeräte, Funkgeräten	17	Funkgeräte	7									
+Funkkanal	SWT (CP)		N	Ncmsn	Funkkanal, Funkkanals, Funkkanäle	15	Funkkanäle	7									
+Funksystem	SWT (CP)		N	Ncnsn	Funksystem, Funksysteme, Funksystems, Funksystemen	15	Funksysteme	9									
+Funktechnik	SWT (CP)		N	Ncfsn	Funktechnik, Funktechniken	36	Funktechnik	29									
+Funkverbindung	SWT (CP)		N	Ncfsn	Funkverbindung, Funkverbindungen	12	Funkverbindung	9									
+Funkwelle	SWT (CP)		N	Ncfsn	Funkwellen	19	Funkwellen	19								Funkwellenausbreitungsgeschwindigkeit	
+Funkzelle	SWT (CP)		N	Ncfsn	Funkzelle, Funkzellen	16	Funkzelle	12									
+Hopping-Sequenz	SWT (CP)		N	Ncfsn	native	Hopping-Sequenz, Hopping-Sequenzen	14	Hopping-Sequenz	12								
+Internetzugang	SWT (CP)		N	Ncmsn	Internetzugang	16	Internetzugang	16								Internetzugriff	
+Kartenleser	SWT (CP)		N	Ncmsn	Kartenleser, kartenleser, KARTENLESER	52	Kartenleser	47								Kartenlesegerät	
+Klangqualität	SWT (CP)		N	Ncfsn	Klangqualität, klangqualitaet, klangqualität	19	Klangqualität	16									
+Klapphandy	SWT (CP)		N	Ncnsn	native	Klapphandy, klapphandy	12	Klapphandy	11								
+Kopfhörerstecker	SWT (CP)		N	Ncmsn	Kopfhörerstecker	31	Kopfhörerstecker	31									
+Ladekabel	SWT (CP)		N	Ncnsn	native	Ladekabel, Ladekabeln	85	Ladekabel	82								
+Ladezeit	SWT (CP)		N	Ncfsn	native	Ladezeit, Ladezeiten	40	Ladezeit	38								
+Latenzzeit	SWT (CP)		N	Ncfsn	native	Latenzzeit	7	Latenzzeit	7								
+Menüführung	SWT (CP)		N	Ncfsn	native	Menüführung	56	Menüführung	56								
+Mobilfunk	SWT (CP)		N	Ncmsn	native	Mobilfunk, mobilfunk, Mobilfunks	96	Mobilfunk	83								Mobilfunknetz, Mobilfunkanbieter, Mobilfunkvertrag, Mobilfunknetzbetreiber
+Mobilfunknetz	SWT (CP)		N	Ncmsn	Mobilfunknetz, Mobilfunknetze, Mobilfunknetzen, MobilfunknetzesMobilfunknetz	43	Mobilfunknetz	23								Mobilfunknetzbetreiber, Mobilfunknutzer	
+Mobilfunksystem	SWT (CP)		N	Ncnsn	Mobilfunksystem, Mobilfunksystems, Mobilfunksysteme, Mobilfunksystemen	14	Mobilfunksystem	6									
+Mobilteil	SWT (CP)		N	Ncnsn	native	Mobilteil, Mobilteils, Mobilteile, Mobilteilen	72	Mobilteil	33								
+Mobiltelefon	SWT (CP)		N	Ncnsn	native	Mobiltelefon, Mobiltelefonen	354	Mobiltelefon	207								
+Multifunktionsgerät	SWT (CP)		N	Ncnsn	native	Multifunktionsgerät, Multifunktionsgeräte	26	Multifunktionsgerät	25								
+Navigationsgerät	SWT (CP)		N	Ncfmsn	Navigationsgerät, Navigationsgeräte	9	Navigationsgerät	7									
+Navigationssystem	SWT (CP)		N	Ncnsn	Navigationssystem, Navigationssysteme	22	Navigationssystem	21									
+Schiebehandy	SWT (CP)		N	Ncnsn	Schiebehandy	13	Schiebehandy	13									
+Signalstärke	SWT (CP)		N	Ncfsn	Signalstärke	63	Signalstärke	63									
+Speichergröße	SWT (CP)		N	Ncfsn	Speichergröße	94	Speichergröße	94									
+Speicherkarte	SWT (CP)		N	Ncfsn	native	Speicherkarte, Speicherkarten, speicherkarten	229	Speicherkarte	210								
+Speicherslot	SWT (CP)		N	Ncmsn	native	Speicherslots	45	Speicherslots	45								
+Sprachnachricht	SWT (CP)		N	Ncfsn	Sprachnachricht, Sprachnachrichten	65	Sprachnachricht	62									
+Sprachqualität	SWT (CP)		N	Ncfsn	Sprachqualität, sprachqualität	49	Sprachqualität	48									
+Tastaturschloss	SWT (CP)		N	Ncmsn	Tastaturschloss	62	Tastaturschloss	62									
+Tastatursperre	SWT (CP)		N	Ncfsn	Tastatursperre	32	Tastatursperre	32									
+Textnachricht	SWT (CP)		N	Ncfsn	Textnachricht, Textnachrichten	41	Textnachricht	33									
+UMTS-Stick	SWT (CP)		N	Ncmsn	UMTS-Stick, UMTS-Sticks	9	UMTS-Stick	7									
+Vibrationssignal	SWT (CP)		N	Ncssn	Vibrationssignal	31	 Vibrationssignal	31									
+Zeitschlitz	SWT (CP)		N	Ncmsn	Zeitschlitz, Zeitschlitze,Zeitschlitzes,  Zeitschlitzen	16	Zeitschlitz	8								Zeitschlitzdynamik, Zeitschlitzfolge, Zeitschlitzstruktur	
+elektromagnetisch Feld	MWT		A N	A-p--- Ncfsn	elektromagnetische Feld, elektromagnetischen Feld, elektromagnetische Felder, elektromagnetischen Feldern, elektromagnetischen Felder	12	elektromagnetischen Feldern	4									
+elektromagnetisch Welle	MWT		A N	A-p--- Ncfsn	Elektromagnetische Wellen, elektromagnetische Wellen, Elektromagnetischen Wellen, elektromagnetischen Wellen, elektromagnetische Welle, elektromagnetischer Wellen, elektromagnetischen Welle	15	elektromagnetische Wellen	5									
+hoch Datenrate	MWT		A N	A-p--- Ncfsn	höhere Datenraten, hohe Datenrate, hohen Datenrate, hohen Datenraten, höheren Datenrate, höheren Datenraten	11	höhere Datenraten	5									
+integriert Anrufbeantworter	MWT		A N	A-p--- Ncfsn	integrierte Anrufbeantworter, integrierten Anrufbeantworter, integrierter Anrufbeantworter, Integrierter Anrufbeantworter	20	integrierte Anrufbeantworter	6									
+logisch Kanal	MWT		A N	A-p--- Ncfsn	logische Kanäle, Logische Kanäle, Logischer Kanal, logischen Kanal	8	logische Kanäle	4									
+mobil Gerät	MWT		A N	A-p--- Ncfsn	mobile Geräte, mobilen Geräten, Mobile Geräte, mobilen Geräte, mobilen Gerät, mobiles Gerät	31	mobilen Gerät	20									
+mobil Internet	MWT		A N	A-p--- Ncfsn	Mobiles Internet, mobiles Internet, Mobile Internet, mobile Internet, mobilen Internet, mobiler Internet, mobiles internet	54	Mobiles Internet	15									
+mobil Kommunikation	MWT		A N	A-p--- Ncfsn	mobile Kommunikation, Mobile Kommunikation, mobilen Kommunikation	23	mobile Kommunikation	11									
+polyphon Klingelton	MWT		A N	A-p--- Ncfsn	Polyphone Klingeltöne, polyphone Klingeltöne	14	Polyphone Klingeltöne	7									
+schnurlos Telefon	MWT		A N	A-p--- Ncfsn	Schnurloses Telefon, Schnurlos Telefon, Schnurlose Telefon, Schnurlose Telefone, Schnurlose telefone, schnurlos telefon, Schnurloses Telefone, schnurloses telefon, schnurlosem telefon	85	Schnurloses Telefon	55									
+technisch Datum	MWT		A N	A-p--- Ncfsn	technische daten, Technische Daten, technischen Daten, TECHNISCHE DATEN, technische Daten, Technischen Daten, technischer Daten	187	technische Daten	110									

@@ -1,0 +1,1 @@
+gsm/gprs modem	GSM / GPRS-Modem

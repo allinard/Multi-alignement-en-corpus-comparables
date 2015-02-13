@@ -1,0 +1,137 @@
+import sys, os
+
+
+#Load existing dicts
+FR_EN = {}
+FR_ES = {}
+FR_DE = {}
+EN_FR = {}
+ES_FR = {}
+DE_FR = {}
+for file in os.listdir(os.getcwd()+'/TradsRefs/FR-EN/'):
+    if file.endswith(".txt"):
+        fileEval = open(os.getcwd()+'/TradsRefs/FR-EN/'+file, 'r')
+	for line in fileEval:
+		elementsLine = line.split('\t')
+		FR_EN[elementsLine[0].replace("\n","").rstrip()] = elementsLine[1].replace("\n","").rstrip()
+	fileEval.close()
+for file in os.listdir(os.getcwd()+'/TradsRefs/FR-ES/'):
+    if file.endswith(".txt"):
+        fileEval = open(os.getcwd()+'/TradsRefs/FR-ES/'+file, 'r')
+	for line in fileEval:
+		elementsLine = line.split('\t')
+		FR_ES[elementsLine[0].replace("\n","").rstrip()] = elementsLine[1].replace("\n","").rstrip()
+	fileEval.close()
+for file in os.listdir(os.getcwd()+'/TradsRefs/FR-DE/'):
+    if file.endswith(".txt"):
+        fileEval = open(os.getcwd()+'/TradsRefs/FR-DE/'+file, 'r')
+	for line in fileEval:
+		elementsLine = line.split('\t')
+		FR_DE[elementsLine[0].replace("\n","").rstrip()] = elementsLine[1].replace("\n","").rstrip()
+	fileEval.close()
+for file in os.listdir(os.getcwd()+'/TradsRefs/EN-FR/'):
+    if file.endswith(".txt"):
+        fileEval = open(os.getcwd()+'/TradsRefs/EN-FR/'+file, 'r')
+	for line in fileEval:
+		elementsLine = line.split('\t')
+		EN_FR[elementsLine[0].replace("\n","").rstrip()] = elementsLine[1].replace("\n","").rstrip()
+	fileEval.close()
+for file in os.listdir(os.getcwd()+'/TradsRefs/DE-FR/'):
+    if file.endswith(".txt"):
+        fileEval = open(os.getcwd()+'/TradsRefs/DE-FR/'+file, 'r')
+	for line in fileEval:
+		elementsLine = line.split('\t')
+		DE_FR[elementsLine[0].replace("\n","").rstrip()] = elementsLine[1].replace("\n","").rstrip()
+	fileEval.close()
+for file in os.listdir(os.getcwd()+'/TradsRefs/ES-FR/'):
+    if file.endswith(".txt"):
+        fileEval = open(os.getcwd()+'/TradsRefs/ES-FR/'+file, 'r')
+	for line in fileEval:
+		elementsLine = line.split('\t')
+		try:
+			ES_FR[elementsLine[0].replace("\n","").rstrip()] = elementsLine[1].replace("\n","").rstrip()
+		except IndexError:
+			pass
+	fileEval.close()
+
+
+
+
+
+#EN-ES
+print("           EN - ES ")
+f = open('TTC-RTL-mobiletechnologies-lemmatisation-tt-EN.csv', 'r')
+count = 0
+for line in f:
+	elementsLine = line.split('\t')
+	ref = elementsLine[0]
+	if ref:
+		try:	
+			pivot=EN_FR[ref]
+			trad=FR_ES[pivot]
+			print('Translation ES for "'+ref+'" is '+trad)
+			count += 1
+			g = open('TradsRefs/EN-ES/'+str(count)+'.txt','w')
+			g.write(ref+'\t'+trad)
+			g.close()
+		except KeyError:		
+			print('Translation ES for "'+ref+'": ')
+			user_input = sys.stdin.readline()
+			if "NONE" not in user_input:
+				count += 1
+				g = open('TradsRefs/EN-ES/'+str(count)+'.txt','w')
+				g.write(ref+'\t'+user_input)
+				g.close()
+f.close()
+
+
+
+#EN-DE
+print("           EN - DE ")
+
+
+
+
+
+
+
+#ES-EN
+print("           ES - EN ")
+
+
+
+
+
+
+
+#ES-DE
+print("           ES - DE ")
+
+
+
+
+
+
+
+
+
+#DE-EN
+print("           DE - EN ")
+
+
+
+
+
+
+
+#DE-ES
+print("           DE - ES ")
+
+
+
+
+
+
+
+
+

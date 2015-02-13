@@ -1,0 +1,151 @@
+term	SWT vs MWT	Nature of the term (CE vs. NE )	pattern	morpho. tag	inflected forms	frequency (lemma and forms)	most frequent form used	frequency of most frequent form used	variant (lemma)	frequency (lemma and forms)	type of variant	synonymic variant	inflected forms of the variant	most frequent form used	frequency of most frequent form used	collocational uses	COMMENTS
+#SWT 																	
+wireless	SWT		A	A—s		1401	wireless	1401									
+application	SWT		N	Nc-s	applications	573	applications	367									
+repeater	SWT		N	Nc-s	repeaters	472	repeater	234									
+frequency	SWT		N	Nc-s	frequencies	308	frequency	265									
+channel	SWT		N	Nc-s	channels	212	channel	139									
+signal	SWT		N	Nc-s	signals	368	signal	277									
+cellular	SWT		A	A—s		335	cellular	335									
+cell	SWT		N	Nc-s	cells	370	cell	298									
+server	SWT		N	Nc-s	servers	296	server	243									
+packet	SWT		N	Nc-s	packets	158	packet	130									
+traffic	SWT		N	Nc-s	traffics	383	traffic	373									
+switch	SWT		N	Nc-s	switches	189	switch	179									
+coverage	SWT		N	Nc-s		350	coverage	350								in-building coverage, wireless coverage, global coverage, coverage solutions	
+protocol	SWT		N	Nc-s	protocols	219	protocol	160									
+node	SWT		N	Nc-s	nodes	236	node	167									
+subscriber	SWT		N	Nc-s	subscribers	235	subscribers	118									
+spectrum	SWT		N	Nc-s	spectra, spectrums*	268	spectrum	264									
+antenna	SWT		N	Nc-s	antennas	228	antenna	149									
+architecture	SWT		N	Nc-s	architectures	323	architecture	291								connectivity architecture, system architecture, management architecture, product architecture	
+sensor	SWT		N	Nc-s	sensors	175	sensor	158									
+connection	SWT		N	Nc-s	connections	256	connection	connection									
+connectivity	SWT		N	Nc-s		159	connectivity	159									
+deployment	SWT		N	Nc-s	deployments	169	deployment	150									
+satellite	SWT		N	Nc-s	satellites	184	satellite	148									
+digital	SWT		A	A—s		238	digital	238									
+speed	SWT		N	Nc-s	speeds	210	speed	158									
+receiver	SWT		N	Nc-s	receivers	134	receiver	92									
+provider	SWT		N	Nc-s	providers	222	providers	118									
+carrier	SWT		N	Nc-s	carriers	269	carrier	185									
+router	SWT		N	Nc-s	routers	88	router	57									
+modem	SWT		N	Nc-s	modems	32	modem	26									
+proxy	SWT		N	Nc-s	proxies	27	proxy	21									
+buffer	SWT		N	Nc-s	buffers	57	buffer	53									
+jitter	SWT		N	Nc-s		47	jitter	47									
+authentication	SWT		N	Nc-s		81	authentication	81									
+security	SWT		N	Nc-s	securities	315	security	313									
+key	SWT		N	Nc-s	keys	354	key	335									
+encryption	SWT		N	Nc-s		43	encryption	43									
+datum	SWT		N	Nc-s	data	1078	data	1077									
+bandwidth	SWT	NE	N	Nc-s		273	bandwidth	273									
+broadband	SWT	NE	N	Nc-s		223	broadband	223									
+broadcast	SWT	NE	N	Nc-s	broadcasts	177	broadcast	169									
+bluetooth	SWT	NE	N	Nc-s		120	bluetooth	120									
+handset	SWT	NE	N	Nc-s		106	handset	106									
+ethernet	SWT	NE	N	Nc-s		182	ethernet	182									
+software	SWT	NE	N	Nc-s		321	software	321									
+																	
+SWT Neoclassical																	
+multicast	SWT	CE	N	Nc-s		86	multicast	86									
+telecommunication	SWT	CE	N	Nc-s	telecommunications	167	telecommunications	139	telecom	29	transpositional	yes		telecom	29		
+multimedia	SWT	CE	N	Nc-s		144	multimedia	144									
+multi-carrier	SWT	CE	A	A—s		10	multi-carrier	10									
+smartphone	SWT	CE	N	Nc-s	smartphones	132	smartphones	73									
+telephony	SWT	CE	N	Nc-s		88	telephony	88	mobile telephony	48	syntactic	no		mobile telephony	48		
+transmission	SWT	CE	N	Nc-s	transmissions	283	transmission	267	retransmission	33	morphological	no	retransmissions	retransmissions	17		
+electromagnetic	SWT	CE	A	A—s		10	electromagnetic	10									
+interference	SWT	CE	N	Nc-s	interferences	197	interference	194									
+microcontroller	SWT	CE	N	Nc-s	microcontrollers	22	microcontroller	18									
+microwave	SWT	CE	N	Nc-s	microwaves	64	microwave	62									
+infrastructure	SWT	CE	N	Nc-s	infrastructures	235	infrastructure	216									
+internet	SWT	CE	N	Nc-s		493	internet	493									
+interface	SWT	CE	N	Nc-s	interfaces	244	interface	187									
+																	
+MWT																	
+mobile phone	MWT		A N	A—s Nc-s	mobile phones	358	mobile phone	230	mobile device	177	paradigmatic	yes	mobile devices	mobile devices	125		
+									cell phone	81	paradigmatic	yes	cell phones	cell phones	41		
+									cellular phone	34	paradigmatic	yes	cellular phones	cellular phone	21		
+mobile network	MWT		A N	A—s Nc-s	mobile networks	83	mobile network	47	cellular network	51	paradigmatic	yes	cellular networks	cellular network	27		
+									mobile networking	5	morphological	yes		mobile networking	5		
+handheld device	MWT		A N	A—s Nc-s	handheld devices	42	handheld device	26									
+mobile operator	MWT		A N	A—s Nc-s	mobile operators	161	mobile operators	111									
+mobile communication	MWT		A N	A—s Nc-s	mobile communications	62	mobile communication	38	mobile telecommunication	22	morphological	yes	mobile telecommunications	mobile telecommunications	16		
+wireless internet	MWT		A N	A—s Nc-s		31		31									
+wireless access	MWT		A N	A—s Nc-s		37		37									
+wireless network	MWT		A N	A—s Nc-s	wireless networks	119	wireless networks	69									
+wireless connection	MWT		A N	A—s Nc-s	wireless connections	9	wireless connection	7									
+wireless technology	MWT		A N	A—s Nc-s	wireless technologies	34	wireless technology	18									
+wireless link	MWT		A N	A—s Nc-s	wireless links	17	wireless link	13									
+wireless advertising	MWT		A N	A—s Nc-s		76	wireless advertising	76	wireless ads	18	transpositional	yes		wireless ads	18		
+wireless device	MWT		A N	A—s Nc-s	wireless devices	29	wireless devices	23									
+wireless phone	MWT		A N	A—s Nc-s	wireless phones	13	wireless phone	9									
+user interface	MWT		N N	Nc-s Nc-s	user interfaces	34	user interface	27									
+service center	MWT		N N	Nc-s Nc-s		12	service center	12									
+internet access	MWT		N N	Nc-s Nc-s		36	internet access	36									
+end user	MWT		N N	Nc-s Nc-s	end users	42	end users	22									
+third generation	MWT		M N	M Nc-s		23	third generation	23	3g	336	transpositional	yes		3g	336	networks, mobiles, mobile systems, technologies, etc 	
+second generation	MWT		M N	M Nc-s		15	second generation	15	2g	42	transpositional	yes		2g	42	networks, mobiles, mobile systems, technologies, etc  	
+mobile commerce	MWT		A N	A—s Nc-s		20	mobile commerce	20	m-commerce	154	transpositional	yes		m-commerce	154		
+gateway node	MWT		N N	Nc-s Nc-s	gateway nodes	25	gateway node	22									
+handheld node	MWT		A N	A—s Nc-s		13	handheld node	13									
+core network	MWT		N N	Nc-s Nc-s	core networks	43	core network	31									
+sensor network	MWT		N N	Nc-s Nc-s	sensor networks	65	sensor networks	35	wireless sensor network	12	syntactic	no	wireless sensor networks	wireless sensor networks	10		
+area network	MWT		N N	Nc-s Nc-s	area networks	48	area network	28									
+transport network	MWT		N N	Nc-s Nc-s	transport networks	16	transport network	12									
+sensor node	MWT		N N	Nc-s Nc-s	sensor nodes	25	sensor node	16									
+spectrum allocation	MWT		N N	Nc-s Nc-s	spectrum allocations	34	spectrum allocation	22									
+mobile terminal	MWT		A N	A—s Nc-s	mobile terminals	44	mobile terminals	24									
+base station	MWT		N N	Nc-s Nc-s	base stations	229	base station	123									
+mobile user	MWT		A N	A—s Nc-s	mobile users	36	mobile users	27									
+signal conditions	MWT		N N	Nc-s Nc-p		10	signal conditions	10									
+fraud detection	MWT		N N	Nc-s Nc-s		15	fraud detection	15									
+signal strength	MWT		N N	Nc-s Nc-s		18	signal strength	18									
+satellite communication	MWT		N N	Nc-s Nc-s	satellite communications	8	satellite communication	6									
+mobile service	MWT		A N	A—s Nc-s	mobile services	22	mobile services	17	cellular service	18	paradigmatic	yes	cellular services	cellular services	11		
+voice communication	MWT		N N	Nc-s Nc-s	voice communications	21	voice communications	12									
+peer-to-peer networking	MWT		N N	Nc-s Nc-s		6	peer-to-peer networking	6									
+incoming call	MWT		Vmg N	Vmg Nc-s	incoming calls	11	incoming calls	7									
+coaxial cable	MWT		A N	A—s Nc-s	coaxial cables	18	coaxial cable	17									
+short message service	MWT		A N N	A—s Nc-s Nc-s		19	short message service	19	sms	286	transpositional	yes		sms	286		
+ip address	MWT		Np N 	Np-s Nc-s	ip addresses	51	ip addresses	27									
+ip network	MWT		Np N 	Np-s Nc-s	ip networks	15	ip network	10									
+ip telephony	MWT		Np N 	Np-s Nc-s		3	ip telephony	3									
+gprs network	MWT		Np N 	Np-s Nc-s	gprs networks	6	gprs network	5									
+gsm network	MWT		Np N	Np-s Nc-s	gsm networks	26	gsm networks	15									
+gsm/gprs modem	MWT		Np N 	Np-s Nc-s		5	gsm/gprs modem	5									
+cdma system	MWT		Np N 	Np-s Nc-s	cdma systems	16	cdma systems	12									
+wlan system	MWT		Np N 	Np-s Nc-s	wlan systems	15	wlan system	12									
+frequency allocation	MWT		N N	Nc-s Nc-s	frequency allocations	9	frequency allocation	8									
+network architecture	MWT		N N	Nc-s Nc-s	network architectures	17	network architecture	14									
+network coverage	MWT		N N	Nc-s Nc-s		17	network coverage	17									
+coverage area	MWT		N N	Nc-s Nc-s	coverage areas	36	coverage area	27									
+real time	MWT		A N	A—s Nc-s		45	real time	45									
+white paper	MWT		A N	A—s Nc-s	white papers	30	white paper	28									
+packet loss	MWT		N N	Nc-s Nc-s		18	packet loss	18									
+web service	MWT		Np N	Np-s Nc-s	web services	28	web service	16									
+quality of service	MWT		N Sp N 	Nc-s Sp Nc-s		27	quality of service	27	service quality	18	syntactic	yes		service quality	18		
+access point	MWT		N N	Nc-s Nc-s	access points	63	access point	38									
+fiber optic	MWT		A N	A—s Nc-s	fiber optics	13	fiber optic	9									
+end-to-end delay	MWT		N N	Nc-s Nc-s	end-to-end delays	8	end-to-end delay	6									
+level of service	MWT		N Sp N 	Nc-s Sp Nc-s	levels of service	5	level of service	4									
+frequency band	MWT		N N	Nc-s Nc-s	frequency bands	74	frequency band	46									
+encryption key	MWT		N N	Nc-s Nc-s	encryption keys	13	encryption key	11									
+key seed	MWT		N N	Nc-s Nc-s	key seeds	57	key seed	40								key seed distribution	
+controller device	MWT		N N	Nc-s Nc-s		5	controller device	5									
+upstream supplier	MWT		A N	A—s Nc-p		7	upstream suppliers	7									
+voice recognition	MWT		N N	Nc-s Nc-s		3	voice recognition	3									
+text message	MWT		N N	Nc-s Nc-s	text messages	18	text messages	12									
+network capacity	MWT		N N	Nc-s Nc-s		15	network capacity	15									
+																	
+ABR																	
+ip	SWT		ABR			232	ip	232									
+gprs	SWT		ABR			91	gprs	91									
+gsm	SWT		ABR			269	gsm	269									
+cdma	SWT		ABR			173	cdma	173									
+wlan	SWT		ABR			348	wlan	348									
+wap	SWT		ABR			107	wap	107									
+umts	SWT		ABR			85	umts	85									
+edge	SWT		ABR			28	edge	28									
+usb	SWT		ABR			22	usb	22									

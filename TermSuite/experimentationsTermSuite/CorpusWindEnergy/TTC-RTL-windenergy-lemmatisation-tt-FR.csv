@@ -1,0 +1,165 @@
+term	SWT vs MWT	Nature of the term (CEvs. native )	pattern	morpho. tag	inflected forms	frequency (lemma and forms)	most frequent form used	frequency of most frequent form used	variant (lemma)	frequency (lemma and forms)	type of variant	synonymic variant	inflected forms of the variant	most frequent form used	frequency of most frequent form used	collocational uses
+SWT																
+rotor	SWT	NE	N	Ncms-	rotors	1391			rotor éolien	72	syntactic	yes	rotors éoliens			
+éolienne              	SWT	NE	N	Ncfs-	éoliennes	4876			eolienne	319	graphical	yes	eoliennes			
+éolien	SWT	NE	N	Ncms-	éoliens	7730			eolien	187	graphical	yes	eoliens			
+pale                  	SWT	NE	N	Ncfs-	pales	1549										
+turbine               	SWT	NE	N	Ncfs-	turbines	1138										
+dimensionnement       	SWT	NE	N	Ncms-	dimensionnements	119										
+moyeu                 	SWT	NE	N	Ncms-	- 	65										
+calage                	SWT	NE	N	Ncms-	calages	179										
+écoulement            	SWT	NE	N	Ncms-	écoulements	491			ecoulement	10	graphical	yes	ecoulements			
+générateur	SWT	NE	N	Ncms-	générateurs	1022			generateur	7	graphical	yes	generateurs			
+		NE							génératrice           	527	paradigmatique	yes	génératrices			
+nacelle               	SWT	NE	N	Ncfs-	nacelles	292										
+stockage              	SWT	NE	N	Ncms-	stockages	894										système de stockage
+raccordement          	SWT	NE	N	Ncms-	raccordements	127										
+hélice                	SWT	NE	N	Ncfs-	hélices	83										
+vent	SWT	NE	N	Ncms-	vents	2352										
+capteur               	SWT	NE	N	Ncms-	capteurs	157										
+mât                   	SWT	NE	N	Ncms-	mâts	126										
+pylône                	SWT	NE	N	Ncms-	pylônes	41										
+implantation          	SWT	NE	N	Ncfs-	implantations	296										
+girouette	SWT	NE	N	Ncfs-	- 	17										
+arbre	SWT	NE	N	Ncms-	arbres	166										
+portance              	SWT	NE	N	Ncfs-	- 	134										
+transformateur        	SWT	NE	N	Ncms-	transformateurs	59										
+nuisance	SWT	NE	N	Ncfs-	nuisances	60										
+tourbillon 	SWT	NE	N	Ncms-	tourbillons	541										
+tour	SWT	NE	N	Ncfs-	tours	1694										
+sillage 	SWT	NE	N	Ncms-	- 	453										
+inertiel	SWT	NE	A	A-ms-	inertielle, inertiels, inertielles	45										
+																
+SWT Neoclassical																
+aérodynamique	SWT	CE	A	A-ms-	aérodynamiques	425			aerodynamique	5	graphical	yes	aerodynamiques			
+mégawatt	SWT	CE	N	Ncms-	mégawatts	91			mw	859	transposition (abbreviation)	yes				
+photovoltaïque	SWT	CE	A	A-ms-	photovoltaïques	103										
+aérogénérateur	SWT	CE	N	Ncms-	aérogénérateurs	294										
+biomasse	SWT	CE	N	Ncfs-	biomasses	63										
+kilowatt	SWT	CE	N	Ncms-	kilowatts	56			kw		transposition (abbreviation)	yes				
+biogaz	SWT	CE	N	Ncms-		11										
+hydroélectrique	SWT	CE	A	A-ms-	hydroélectriques	38										
+biodiversité	SWT	CE	N	Ncfs-		12										
+géothermie            	SWT	CE	N	Ncfs-	- 	33										
+électromagnétique	SWT	CE	A 	A-ms-	électromagnétiques	79										
+électromécanique	SWT	CE	A	A-ms-	électromécaniques	30										
+hydroélectricité	SWT	CE	N	Ncfs-	hydroélectricités	28										
+radioactif	SWT	CE	A	A-ms-	radioactifs, radioactive, radioactives	20										
+anémomètre	SWT	CE	N	Ncms-	anémomètres	111										
+aéronautique	SWT	CE	A	A-ms-	aéronautiques	30										
+hydraulique	SWT	CE	A 	A-ms-	hydrauliques	149										
+météorologique	SWT	CE	A	A-ms-	météorologiques	55										
+kilowattheure	SWT	CE	N	Ncms-	kilowattheures	26			kilowatt-heure	1	graphical	yes				
+									kWh	272	transposition (abbreviation)	yes				
+topographie           	SWT	CE	N	Ncfs-	- 	20										
+cartographie          	SWT	CE	N	Ncfs-	- 	21										
+foisonnement          	SWT	CE	N	Ncms-	- 	20										
+cycloconvertisseur    	SWT	CE	N	Ncms-	- 	14										
+synchrone	SWT	CE	A	A—s-	- 	734			asynchrone	510	morphological	no				
+bipale	SWT	CE	A	A—s-		29										
+tripale	SWT	CE	A	A—s-		58										
+multipale	SWT	CE	A	A—s-		7			à pale multiple	1	syntactic+morphological	yes				
+																
+MWT																
+énergie éolien	MWT		N A	Ncfs- A—ms-	énergies éoliennes	670			energie eolien	50	graphical	yes	energies eoliennes			
+									énergie électrique éolien	4	syntactic (modification)	no	-			
+									énergie du vent	60	paradigmatique (substitution)	yes	énergies du vent			
+									énergie cinétique du vent	26	syntactic + anaphorical	no	-			
+énergie renouvelable	MWT		N A	Ncfs- A—ms-	énergies renouvelables	370			energie renouvelable	44	graphical	yes	energies renouvelables			
+									énergie non renouvelable	1	syntactic (modification)	no				
+									énergie durable	5	paradigmatique (substitution)	yes	énergies durables			
+									énergie hybride renouvelable	2	syntactic (modification)	no	-			
+									énergie marin renouvelable	1	syntactic (modification)	no	-			
+									énergie électrique renouvelable 	3	syntactic (modification)	no	-			
+étude de impact	MWT		N Sp N	Ncfs- S:p Ncms-	-	359			étude de le impact	2	syntactic	yes	-			
+face au vent 	MWT		Sp D N	S:p D Ncms-	-	50										
+énergie électrique	MWT		N A	Ncfs- A—ms-	- 	206			energie electrique	4	graphical	yes	-			
+source renouvelable	MWT		N A	Ncfs- A—ms-	sources renouvelables	54										
+stockage de énergie	MWT		N Sp N	Ncms- S:p Ncfs-	-	116			stockage de energie	7	graphical	yes	-			
+									stockage inertiel de énergie	1	syntactic (modification)	no	-			
+stockage par pompage	MWT		N Sp N	Ncms- S:p Ncms-	-	9			stockage à pompage	2	paradigmatique (substitution)	yes	-			
+éolienne offshore	MWT		N A	Ncfs- A—ms-	-	18										
+éolienne industriel	MWT		N A	Ncfs- A—ms-	éoliennes industrielles	4										
+éolienne domestique	MWT		N A	Ncfs- A—ms-	éoliennes domestiques	7										
+éolienne terrestre	MWT		N A	Ncfs- A—ms-	éoliennes terrestres	7			éolienne à terre	5	morphological (pattern switching)	yes	éoliennes à terre			
+production éolien	MWT		N A	Ncfs- A—ms-	-	91			surproduction éolien	2	morphological (affixation)	no				
+éolienne à axe vertical	MWT		N Sp N A 	Ncfs- S:p Ncms- A—ms-		2										
+éolienne à axe horizontal	MWT		N Sp N A 	Ncfs- S:p Ncms- A—ms-		24										
+vitesse de rotation	MWT		N Sp N	Ncfs- S:p Ncfs-	vitesses de rotation	421			vitesse angulaire de rotation	4	syntactic (modification)	no	-			
+									vitesse nominal de rotation	2	syntactic (modification)	no	-			
+									vitesse donner de rotation	1	syntactic (modification)	no	-			
+turbine éolien	MWT		N A	Ncfs- A—ms-	turbines éoliennes	289			turbine eolien	30	graphical	yes	turbines eoliennes			
+système éolien	MWT		N A	Ncms- A—ms-	systèmes éoliens	177			système hybride éolien	1	syntactic (modification)	no	-			
+									systeme eolien	5	graphical	yes	systemes eoliens			
+potentiel éolien	MWT		N A	Ncms- A—ms-	- 	56										
+gisement éolien	MWT		N A	Ncms- A—ms-	gisements éoliens	44			gisement eolien	1	graphical	yes				
+parc éolien	MWT		N A	Ncms- A—ms-	parcs éoliens	803			parc eolien	14	graphical	yes	parcs eoliens			
+									parc industriel éolien	1	syntactic (modification)	no				
+									parc national éolien	1	syntactic (modification)	no				
+									ferme éolien	124	paradigmatique (substitution)	yes	fermes éoliennes			
+									site éolien	42	paradigmatique (substitution)	yes	sites éoliens			
+vitesse du vent	MWT		N de + D N	Ncfs- S:p D Ncms-	vitesses du vent	441			vitesse nominal de vent	1	syntactic (modification)	no	-			
+									vitesse vent	2	syntactic	yes	-			
+									vitesse de vent	260	syntactic	yes	vitesses de vent			
+									vitesse moyen de vent	5	syntactic (modification)	no	vitesses moyennes de vent			
+									vitesse moyen de le vent	23	syntactic (modification)	no	vitesses moyennes du vent			
+									vitesse de vent moyen	5	syntactic (modification)	no	vitesses de vent moyennes			
+									vitesse élever de vent	1	syntactic (modification)	no	-			
+									vitesse excessif de vent	1	syntactic (modification)	no	-			
+système de pompage	MWT		N Sp N	Ncms- S:p Ncms-	systèmes de pompage	18										
+système de conversion	MWT		N Sp N	Ncms- S:p Ncfs-	systèmes de conversion	197										
+machine synchrone	MWT		N A	Ncfs- A—ms-	machines synchrones	93			machine asynchrone	300	morphological (affixation)	no	machines asynchrones			
+puissance actif	MWT		N A	Ncfs- A—ms-	puissances actives	133			puissance réactif	66	morphological (affixation)	no	- 			
+puissance de référence	MWT		N Sp N	Ncfs- S:p Ncfs-	puissances de référence	168			puissance idéal de référence	1	syntactic (modification)	no				
+puissance installer 	MWT		N V:mp	Ncfs- Vmp	puissances installées	88			puissance hydroélectrique installer	1	syntactic (modification)	no				
+									puissance hydraulique installer	2	syntactic (modification)	no				
+									puissance éolien installer	23	syntactic (modification)	no	puissances éoliennes installées			
+									puissance global installer	1	syntactic (modification)	yes				
+									puissance total installer	5	syntactic (modification)	yes				
+puissance nominal	MWT		N A	Ncfs- A—ms-	puissances nominales	110										
+puissance total	MWT		N A	Ncfs- A—ms-	-	45										
+puissance maximal	MWT		N A	Ncfs- A—ms-	-	66			puissance maximum	17	morphological (pattern switching)	yes	-			
+puissance aérodynamique	MWT		N A	Ncfs- A—ms-	-	21										
+coefficient de puissance	MWT		N Sp N	Ncms- S:p Ncfs-	coefficients de puissance	155			coefficient puissance	1	syntactic	yes	-			
+angle de calage	MWT		N Sp N	Ncms- S:p Ncms-	angles de calage	158										
+angle de incidence	MWT		N Sp N	Ncms- S:p Ncfs-		77										
+angle de attaque	MWT		N Sp N	Ncms- S:p Ncfs-	angles d'attaque	52										
+calage de le pale	MWT		N de + D N	Ncms- S:p D Ncfp-		56			calage variable de pale 	3	syntactic (modification)	no				
+									calage de pale	1	syntactic	yes				
+champ de vitesse	MWT		N Sp N	Ncms- S:p Ncfs-	champs de vitesse	161			champ de le vitesse	4	syntactic	yes	-			
+stockage à court terme	MWT		N [à A N]	Ncms- S:p A—ms- Ncms-	-	53			stockage court terme	76	syntactic	yes				
+stockage à long terme	MWT		N [à A N]	Ncms- S:p A—ms- Ncms-	-	28			stockage long terme	41	syntactic	yes	stockages long terme			
+stockage de électricité	MWT		N Sp N	Ncms- S:p Ncfs-		15										
+stockage inertiel	MWT		N A	Ncms- A-ms--	- 	21										
+système inertiel	MWT		N A	Ncms- A-ms--	- 	9										
+rotor de Savonius	MWT		N Sp N	Ncms- S:p Npms-	rotors de Savonius	18			rotor Savonius	27	syntactic	yes	rotors Savonius			
+rotor de Darrieus	MWT		N Sp N	Ncms- S:p Npms-	-	6										
+rotor bobiner	MWT		N V:mp	Ncms- Vpm	-	36										
+vent faible	MWT		N A	Ncms- A—ms-	vents faibles	73										
+vent fort	MWT		N A	Ncms- A-ms--	vents forts	50										
+vent moyen	MWT		N A	Ncms- A—ms-	vents moyens	60										
+moulin à vent	MWT		N à N	Ncms- S:p Ncms-	moulins à vent	37										
+réglage fréquence puissance	MWT		N N N	Ncms- Ncfs- Ncfs-	-	6										
+profil de pale	MWT		N Sp N	Ncms- S:p Ncfs-	profils de pale, profils de pales	26			profil local de pale	1	syntactic (modification)	no				
+									profil de le pale	15	syntactic	yes	profils de la pale			
+bout de pale	MWT		N Sp N	Ncms- S:p Ncfs-	bout de pales, bouts de pales	31			bout de le pale	2	syntactic	yes	-			
+pied de pale	MWT		N Sp N	Ncms- S:p Ncfs-	-	12			pied de le pale	6	syntactic	yes	-			
+angle de le pale	MWT		N Sp D N	Ncms- S:p D Ncms-	-	10			angle de pale	10	syntactic	yes	-			
+pertes par commutation 	MWT		N Sp N	Ncfp- S:p Ncfs-	-	61										
+pertes par conduction	MWT		N Sp N	Ncfp- S:p Ncfs-	-	89			perte global par conduction	2	syntactic (modification)	yes				
+									perte de conduction 	10	syntactic	no				
+multiplicateur de vitesse	MWT		N Sp N	Ncms- S:p Ncfs-	-	17										
+sillage par élément tourbillonnaire	MWT		N [Sp N A]	Ncms- S:p Ncms- A—ms-	-	10	sillage par éléments tourbillonnaires 									
+sillage hélicoïdal	MWT		N A	Ncms- A—ms-	-	12										
+gaz à effet de serre	MWT		N [à N Sp N]	Ncms- S:p Ncms- S:p Ncfs-	-	92										
+réseau électrique	MWT		N A	Ncms- A—ms-	réseaux électriques	140										
+tourbillon marginal	MWT		N A	Ncms- A—ms-	tourbillons marginaux	171										
+production décentraliser	MWT		N V:mp	Ncfs- Vmp	productions décentralisées	72	production décentralisée		production électrique décentraliser	2	syntactic	no 				
+									production centraliser	3	morphological	no		production décentralisée		
+centrale éolien	MWT		N A	Ncfs- A—ms-	centrales  éoliennes	21										
+centrale électrique	MWT		N A	Ncfs- A—ms-	centrales électriques	28										
+arbre lent	MWT		N A	Ncms- A—ms-	arbres lents	12										
+arbre rapide	MWT		N A	Ncms- A—ms-	-	11										
+matériau composite	MWT		N A	Ncms- A—ms-	matériaux composites	15										
+comportement aérodynamique	MWT		N A	Ncms- A—ms-	- 	9			comportement énergétique et aérodynamique	1	syntactic (modification)	no				
+rose de le vent	MWT		N A	Ncfs- S:p D Ncms-		5	rose des vents	5								

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE martif SYSTEM "http://ttc-project.googlecode.com/files/tbxcore.dtd">
+<martif type="TBX">
+  <martifHeader>
+    <fileDesc>
+      <sourceDesc>
+        <p>/home/dpt/E104799M/Documents/experimentationsTermSuite/CorpusMobileTechnology/Spanish</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p type="XCSURI">http://ttc-project.googlecode.com/files/ttctbx.xcs</p>
+    </encodingDesc>
+  </martifHeader>
+  <text>
+    <body/>
+  </text>
+</martif>

@@ -1,0 +1,1 @@
+coverage area	área de cobertura

@@ -1,0 +1,162 @@
+term	SWT vs MWT	Nature of the term (CEvs. native )	pattern	morpho. tag	inflected forms	frequency (lemma and forms)	most frequent form used	frequency of most frequent form used	variant (lemma)	variant morpho. tag	frequency (lemma and forms)	type of variant	synonymic variant	inflected forms of the variant	most frequent form used	frequency of most frequent form used	collocational uses
+SWT 																	
+góndola	SWT	NE	N	Ncfs	góndolas	239	góndola	239	rotor-góndola		1	morphologic	no	rotores-góndola	rotor-góndola	1	la góndola y el rotor
+rotor	SWT	NE	N	Ncms	rotores	185	rotores	185	rotórico		5	morphologic(derivational)	no	rotórica, rotóricas, rotóricos	rotórica	5	giro del rotor
+alternador	SWT	NE	N	Ncms	alternadores, Alternador	247	alternador	190	turboalternador		1	morphologic(affixation)	no	turbonalternadores	turbonalternador	1	construcción del alternador, grupo turboalternador
+									alternador trifásico		14	syntactic	no	alternadores trifásicos	alternador trifásico	14	alternadores trifásicos de imanes permanentes
+álabe	SWT	NE	N	Ncms	álabes	85	álabes	85									álabes de la turbina
+síncrono	SWT	NE	A	A-ms	síncrona, síncronas, síncronos	33	síncrono	33	asíncrono		57	morphologic(affixation)	no	asíncrona, asíncronas, asíncronos	asíncrono	57	generador síncrono
+borne	SWT	NE	N	Ncms	bornes	29	bornes	29									bornes de la bobina
+estátor	SWT	NE	N	Ncms	estatores	202	estátor	202	estator-rotor		1	morphologic	no	estatores-rotor	estator-rotor	1	molde del estator
+calaje	SWT	NE	N	Ncms	calajes	31	calaje	31									ángulo de calaje
+buje	SWT	NE	N	Ncms	bujes	5	bujes	5	buje-eje		2	morphologic	no	bujes-eje, bujes-ejes	buje-eje	2	buje del rotor
+monitoreo	SWT	NE	N	Ncms	monitoreos	42	monitoreo	42									sistemas de monitoreo
+barquilla	SWT	NE	N	Ncfs	barquillas	34	barquilla	34									 barquilla o chasis
+torque	SWT	NE	N	Ncms	torques	27	torque	27									reducción del torque
+panémona	SWT	NE	N	Ncfs	panémonas	13	panémona	13	panémona chino	Ncfs A-ms	1	morphologic	no	panémonas chinas	panémona china	1	tipo panémona
+toroidal	SWT	NE	A	A--s	toroidales	5	toroidal	5									estator toroidal
+sinóptica	SWT	NE	A	A-fs	sinóptica, sinópticas	5	sinóptica	5									escala sinóptica
+rotacional	SWT	NE	A	A--s	rotacionales	23	rotacional	23									energía rotacional
+bobinado	SWT	NE	N	Ncms	bobinados	14	bobinado	14									bobinado del rotor
+fisionable	SWT	NE	A	A--s	fisionables	14	fisionable	14									isótopos fisionables
+huracanado	SWT	NE	A	A-ms	huracanados	6	huracanados	6									vientos huracanados
+espira	SWT	NE	N	Ncfs	espiras	5	espiras	5									espiras del estator
+arriostrado	SWT	NE	A	A-cms	arriostrada, arriostradas, arriostrados	5	arriostrada	5	arriostramiento		1	morphologic	no	arriostramientos	arriostramientos	1	instalación arriostrada
+aspa	SWT	NE	N	N-cfs	aspas	1148	aspa	614									aspa de los molinos
+pala	SWT	NE	N	Ncfs	palas	4743	pala	2906									palas alabeadas
+roción	SWT	NE	N		rociones	4	rociones	4									espuma y rociones
+turbina	SWT	NE	N	Ncfs	turbinas	4686	turbinas	2393	aeroturbina		133	morphologic(affixation)	no	aeroturbinas	aeroturbinas	67	estelas de las turbinas, tipo de aeroturbinas
+									microturbina		7	morphologic(affixation)	no	microturbinas	microturbina	7	microturbina eólica
+									miniturbina		16	morphologic(affixation)	no	miniturbinas	miniturbinas	11	miniturbinas eólicas
+									turbina-alernador		11	morphologic	no	turbinas-alternadores	turbina-alternador	11	conjunto turbina-alternador
+molino	SWT	NE	N	Ncms	molinos	986	molinos	662	mini-molino		8	morphologic	no	mini-molinos	mini-molinos	8	molinos domésticos, mini-molinos eléctricos
+balizamiento	SWT	NE	N	Ncms	balizamientos	13	balizamiento	13									Sistemas de balizamiento y pararrayos
+reactancia	SWT	NE	N	Ncmp	reactancias	13	reactancias	13									reactancia síncrona de la máquina
+tiristor	SWT	NE	N	Ncms	tiristores	13	tiristores	13									transistores o tiristores
+nacele	SWT	NE	N	Ncms	naceles	12	nacele	12									nacele de la turbina
+																	
+SWT Neoclassical																	
+aerodinámico	SWT	CE	A	A-ms	aerodinámica, aerodinámicas, aerodinámicos	62	aerodinámicas	62	aerodinámicamente		3	morphologic(derivational)	no	aerodinámicamente	aerodinámicamente	3	freno aerodinámico
+anemómetro	SWT	CE	N	Ncms	anemómetros	101	anemómetro	101	anemométrico		11	morphologic	no	anenométrico, anemométricos, anemométrica, anemométricas	anemométricas	11	anemómetro de cazoletas
+									anemómetro-veleta		5	morphologic	no	anemómetros-veleta	anemómetro-veleta	5	sistema anemómetro-veleta
+aeromotor	SWT	CE	N	Ncms	aeromotores	116	aeromotor	116	motor eólico		52	syntactic	yes	motores eólicos	motores eólicos	27	aeromotores de pequeña potencia, grandes motores eólicos
+									motor eólico de eje horizontal		10	syntactic	no	motores eólicos de eje horizontal	motores eólicos de eje horizontal	10	grandes motores eólicos de eje horizontal
+tripala	SWT	CE	A	A-fs	tripalas	119	tripala	119	pala con tres hélice	Ncfs Sp A-ms Ncfs		syntactic	yes	palas con tres hélices	palas con tres hélices		aerogeneradores de palas con tres hélices
+									trípala		1	graphic	yes	trípalas	trípala	1	máquinas tripala
+bipala	SWT	CE	A	A-fs	bipalas	72	bipala	46	pala con dos hélice	Ncfs Sp A-ms Ncfs		syntactic	yes				diseño de bipalas, diseño de pala con dos hélices
+multipala	SWT	CE	A	A-fs	multipalas	63	multipala	36	pala con múltiple hélice	Ncfs Sp A-ms Ncfs		syntactic	yes				modelo multipala americano, modelo de pala con múltiples hélices
+monopala	SWT	CE	A	A-fs	monopala	34	monopala	30									aerogenerador monopala
+aerogenerador	SWT	CE	N	Ncms	aerogeneradores	16	aerogenerador	16	aerogeneración		17	morphologic (derivational)	no				aerogenerador de 100 Kw,  Sistemas de Aerogeneración Eléctrica
+									generador eólico		428	syntactic	yes	generadores eólicos	generadores eólicos	69	modelo de generador eólico
+monopilote	SWT	CE	N	Ncms	monopilotes	9	monopilote	9									monopilote de acero
+trifásico	SWT	CE	A	A-ms	trifásica, trifásicas, trifásicos	57	trifásico	57									motor trifásico
+monofásico	SWT	CE	A	A-ms	monofásica, monofásicas, monofásicos	11	monofásicos	11									generador monofásico
+hidráulico	SWT	CE	A	A-ms	hidráulica, hidráulicas, hidráulicos	38	hidráulicos	38	minihidráulico		4	morphologic	no	minihidráulica, minihidráulicas, minihidráulicos	minihidráulicas	4	generadores eolicos hidraulicosV
+geostrófico	SWT	CE	A	A-ms	geostrófica, geostróficas, geostróficos	18	geostróficos	18									viento geostrófico
+autotimonante	SWT	CE	A	A-ms	automononantes	10	autotimonante	10									estructura autotimonante
+electromagnético	SWT	CE	A	A-ms	electromagnética, electromagnéticas, electromagnéticos	15	electromagnético	15									diseño electromagnético
+mareomotriz	SWT	CE	A	A--s	mareomotrices	21	mareomotriz	21									energía mareomotriz
+topografía	SWT	CE	N	Ncms	topografía	16	topografía	16	topográfico		6	morphologic	no	topográfica, topográficas, topográficos	topográficas	6	topología de flujo axial
+aeroturbina	SWT	CE	N	Ncfs	aeroturbinas	133	aeroturbinas	67	turbina eólico	Ncfs A-ms	2131	syntactic	yes	turbinas eólicas	turbinas eólicas	729	tipo de aeroturbina, turbinas eólicas de 500 vatios
+									turbina del viento		14	syntactic	yes	turbinas del viento	turbina del viento	4	avances de la turbina de viento
+eólico	SWT	CE	A	A-ms	eólicos	9441	eólico	7553	microeólico	A-ms	1	morphologic	no	microeólica, microeólicas, microeólicos	microeólicos	1	tecnología eólica, sistemas microeólicos
+									minieólico		25	morphologic	no	minieólica,minieólicas, minieólicos	minieólica	25	tecnología minieólica
+									mini-eólico		4	morphologic	no	mini-eólica, mini-eólicas, mini-eólicos	mini-eólica	4	mercado mini-eólico
+									eólico-fotovoltaico		9	morphologic	no	eólicos-fotovoltaicos	eólico-fotovoltaico	9	conjuntos mixtos eólico-fotovoltaicos
+megavatio	SWT	CE	N	Ncms	megavatios	326	megavatios	326	megawatt		8	graphic	yes	megawatts	megawatt	8	megavatios de potencia, megawatts de electricidad
+kilovatio	SWT	CE	N	Ncms	kilovatios	92	kilovatios	92	kilowatt		24	graphic	yes	kilowatts	kilowatt	24	kilovatio hora, kilowatt hora
+hélice	SWT	CE	N	Ncfs	hélices	344	hélice	254									hélices de los aerogenadores
+biodiésel	SWT	CE	N	Ncms	biodiésel	6	biodiésel	6									uso del biodiésel
+fotovoltáica	SWT	CE	A	A-fs	fotovoltáico, fotovoltáica, fotovoltáicos, fotovoltáicas	7	fotovoltáica	7									tecnología fotovoltaica
+ferrita	SWT	CE	N	Ncfs	ferrita	13	ferrita	13									bloques de ferrita
+electro-eólica	SWT	CE	A	A-fs	electro-eólico, electro-eólicos, electro-eólica, electro-eólicas	10	electro-eólica	6									central electro-eólica
+																	
+MWT																	
+energía renovable	MWT		NA	Ncfs A--s	energías renovables	1311	energía renovable	145	energía limpio		245	syntactic	yes	energías limpias	energía limpia	85	instalación de energía renovable
+aerogenerador de eje vertical	MWT		N Sp NA	Ncms Sp D Ncms A--s	aerogeneradores de eje vertical	322	aerogeneradores de eje vertical	79	generador eólico de eje vertical		12	syntactic	yes	generadores eólicos de eje vertical	generador eólico de eje vertical	4	aerogenerador de eje vertical con estator, nuevo modelo de generador eólico de eje vertical
+									aerogenerador eje vertical		6	anaphoric	yes	aerogeneradores eje vertical, aerogeneradores ejes verticales	aerogeneradores eje vertical	2	video de aerogenerador eje vertical
+energía generar	MWT		N Vmp	Ncfs Vmp	energías generadas	150	energía generada	58	energía producir	Ncfs Vmp	289	morphologic	yes	energía producida, energías producidas	energía producida	127	cantidad de energía generada ?
+parque eólico marino	MWT		N A A	Ncms A-ms A-ms	parques eólicos marinos	210	parques eólicos marinos	56	granja eólico marino		12	morphologic	yes	granjas eólicas marinas	granja eólica marina	3	construcción de un parque eólico marino
+									campo eólico flotar	Ncms A-ms Vmp	2	morphologic	yes	campos eólicos flotantes	campo eólico flotante	2	campo eólico flotante frente a sus costas
+parque eólico	MWT		NA	Ncms A-ms	parques eólicos	4186	parque eólico	1324	campo eólico		19	syntactic	yes	campos eólicos	campo eólico	6	construcción del campo eólico
+									granja eólico	Ncfs A-ms	150	syntactic	yes	granjas eólicas	granjas eólicas	47	germen de granja eólica
+									granja de viento		21	syntactic	yes	granjas de viento	granjas de viento	7	granjas de viento comerciales
+diámetro de rotor	MWT		N Sp N	Ncms Sp Ncms	diámetros de los rotores	144	diámetro de rotor	43									metros de diámetro de rotor
+eje de rotación	MWT		N Sp N	Ncms Sp Ncms	ejes de rotación	92	eje de rotación	48									eje de rotación principal / distancia al eje de rotación
+área barrido	MWT		N Vmp	Ncfs Vmp	áreas barridas	84	área barrida	33									área barrida por el rotor
+generador de inducción	MWT		N Sp N	Ncms Sp Ncms	generadores de inducción	71	generador de inducción	19									generador de inducción con rotor bobinado
+generador síncrono	MWT		NA	Ncms A-ms	generadores asíncronos	31	generadores síncronos	18	generador asíncrono		65	morphologic	no	generadores asíncronos	generador asíncrono	33	generador asíncrono trifásico
+torre de celosía	MWT		N Sp N	Ncfs Sp Ncfs	torres de celosía	62	torres de celosía	23									forma de torre de celosía
+freno aerodinámico	MWT		NA	Ncms A-ms	frenos aerodinámicos	61	freno aerodinámico	34									sistema de freno aerodinámico
+eje del rotor	MWT		N Sp D N	Ncms Sp D Ncms	ejes de rotor, ejes de los rotores	60	eje del rotor	28									eje del rotor del aerogenerador
+barrido del rotor	MWT		N Sp D N	Ncms Sp D Ncms	barridos del rotor, barridos de los rotores	56	barrido del rotor	28									área de barrido del rotor
+energía eléctrico generar	MWT		NA Vmp	Ncfs A-ms Vmp	energías eléctricas generadas	42	energía eléctrica generada	20	energía eléctrico producir	Ncfs A-ms Vmp	76	morphologic	yes	energías eléctricas producidas	energía eléctrica producida	38	energía eléctrica generada por fuerza eólica
+turbina de eje horizontal	MWT		N Sp NA	Ncfs Sp Ncms A--s	turbinas de eje horizontal, turbinas de ejes horizontales	42	turbinas de eje horizontal	12									turbina de eje horizontal con tres palas
+molino de eje vertical	MWT		N Sp NA	Ncms Sp Ncms A--s	molinos de eje vertical, molinos de ejes verticales	40	molinos de eje vertical	11	molino de eje horizontal		22	syntactic	no	molinos de eje horizontal	molinos de eje horizontal	10	molino de eje vertical con cuatro palas/ de dos kilovatios ?
+velocidad del aerogenerador	MWT		N Sp D N	Ncfs Sp D Ncms	velocidades del aerogenerador, velocidades de los aerogeneradores	18	velocidad del aerogenador	14									baja velocidad del aeerogenerador
+rotor tripala	MWT		NA	Ncms A--s	rotores tripala	26	rotor tripala	14									rotor tripala a barlovento
+viento incidente	MWT		NA	Ncms A--s	vientos incidentes	26	viento incidente	21									dirección del viento incidente
+rotor de imán	MWT		N Sp N	Ncms Sp Ncms	rotores de imánes	26	rotores de imánes	13									rotor de imanes permanentes
+caja multiplicadora de velocidad	MWT		NA de N	Ncfs A-fs Sp Ncfs	cajas multiplicadoras de velocidad, cajas multiplicadoras de velocidades	22	caja multiplicadora de velocidades	6									caja multiplicadora de velocidad de giro
+fuente energético renovable	MWT		NA A	Ncfs A-ms A--s	fuentes energéticas renovables	22	fuentes energéticas renovables	9	fuente de energía alternativo		18	syntactic	yes	fuentes de energía alternativas	fuente de energía alternativa	6	fuente energético renovable no contaminante
+anemómetro de cazoleta	MWT		N Sp N	Ncms Sp Ncfs	anemómetros de cazoletas	22	anemómetro de cazoletas	11									 el anemómetro de cazoletas tiene un eje vertical
+energía mareomotriz	MWT		NA	Ncms A--s	energías mareomotrices	22	energía mareomotriz	10									energía mareomotriz en energía eléctrica
+sistema de monitoreo	MWT		N Sp N	Ncms Sp Ncms	sistemas de monitoreo	18	sistemas de monitoreo	5									sistema de monitoreo de condición de una turbina eólica
+flujo axial	MWT		N Sp NA	Ncfs A--s	flujos axiales	29	flujo axial	24									máquina de flujo axial
+álabe del rotor	MWT		N Sp D N	Ncms Sp D Ncms	álabes del rotor, álabes de los rotores, álabe de los rotores	18	álabes del rotor	9									puntas de los álabes del rotor
+sistema híbrido eólico-fotovoltaico	MWT		NA A	Ncms A-ms A-ms	sistemas híbridos eólico-fotovoltaicos	16	sistema híbrido eólico-fotovoltaico	8									sistema híbrido eólico-fotovoltaico (SHEFV) de baja potencia
+viento geostrófico	MWT		NA	Ncms A-ms	vientos geostróficos	29	vientos geostróficos	11									vientos geostróficos de la zona
+aeromotor de eje horizontal	MWT		N Sp NA	Ncms Sp Ncms A--s	aeromotores de eje horizontal, aeromotores de ejes horizontales	16	aeromotores de eje horizontal	8									 aeromotor de eje horizontal bipala
+radio del rotor	MWT		N Sp D N	Ncms Sp D Ncms	radios del rotor	14	radio del rotor	7									diámetro o radio del rotor
+energía mecánico rotacional	MWT		NA A	Ncfs A-ms A--s	energías mecánicas rotacionales	12	energía mecánica rotacional	6									energía mecánica rotacional en energía eléctrica
+turbulencia generar	MWT		N Vmp	Ncfs Vmp	turbulencias generadas	12	turbulencias generadas	6									turbulencias generadas por el movimiento de las palas.
+aerogenerador de velocidad variable	MWT		N Sp NA	Ncms Sp Ncfs A--s	aerogeneradores de velocidad variable	12	aerogenerador de velocidad variable	2									sistema aerogenerador de velocidad variable
+rodamiento de pala	MWT		N Sp N	Ncms Sp Ncfs	rodamientos de pala, rodamientos de palas	12	rodamientos de pala	5									pista móvil del rodamiento de pala
+aerogenerador monopala	MWT		NA	Ncms A--s	aerogeneradores monopala	12	aerogeneradores monopala	5									rotor de un aerogenerador monopala
+dato anemométrico	MWT		NA	Ncms A-ms	datos anométricos	11	datos anemométricos	7									extrapolación de datos anemométricos
+generador de turbina eólica	MWT		N Sp NA	Ncms Sp Ncfs A-fs	generadores de turbinas eólicas	14	generador de turbina eólica	4									estator del generador de turbina eólica
+viento dominante	MWT		NA	Ncms A--s	vientos dominantes	53	viento dominante	21									dirección del viento dominante
+eje del generador	MWT		N Sp D N	Ncms Sp D Ncms	ejes del generador	46	eje del generador	23									eje del generador de electricidad
+planta de energía eólico	MWT		N Sp NA	Ncfs Sp Ncfs A-ms	plantas de energía eólica, plantas de energías eólicas	34	plantas de energía eólica	11	parque de energía eólico		26	syntactic	yes	parques de energía eólica	parques de energía eólica	7	instalación de una planta de energía eólica
+aerogenerador marino	MWT		NA	Ncms A-ms	aerogeneradores marinos	26	aerogeneradores marinos	11									caja multiplicadora de un aerogenerador marino
+ruido aerodinámico	MWT		NA	Ncms A-ms	ruidos aerodinámicos	25	ruido aerodinámico	14									disminución del ruido aerodinámico
+túnel de viento	MWT		N Sp N	Ncms Sp Ncms	túneles de viento	25	túnel de viento	12									experimentos en un túnel de viento
+granja de viento	MWT		N Sp N	Ncfs Sp Ncms	granjas de viento	21	granja de viento	10	granja de turbina eólico 		6	syntactic	yes	granjas de turbinas eólicas, granja de turbinas eólicas	granja de turbinas eólicas	2	granjas de viento comerciales
+turbina eólico maglev	MWT		N Sp N N	Ncfs A-ms Np	turbinas eólicas maglev	6	turbina eólica maglev	2									visión imaginaria de turbina eólica maglev
+turbina flotante	MWT		NA	Ncfs A--s	turbinas flotantes	24	turbinas flotantes	9	turbina marino	Ncfs A-ms	11	morphologic	yes	turbinas marinas	turbinas marinas	5	turbina flotante en la costa, turbinas marinas fijas
+molino multipala	MWT		NA	Ncms A--s	molinos multipala	18	molinos multipala	8									molino multipala tipo americano
+rotor eólico	MWT		NA	Ncms A-ms	rotores eólicos	16	rotores eólicos	11									rendimiento del rotor eólico
+rotor del generador	MWT		N Sp D N	Ncms Sp D Ncms	rotores del generador, rotores de los generadores	15	rotor del generador	8									resistencia del rotor del generador
+cizallamiento del viento	MWT		N Sp D N	Ncms Sp D Ncms	cizallamientos del viento	15	cizallamiento del viento	8									bajo cizallamiento del viento, cizallamiento del viento y escarpas
+bombeo eólico	MWT		NA	Ncms A-ms	bombeos eólicos	12	bombeo eólico	9									sistema típico de bombeo eólico
+aerogenerador Darrieus	MWT		N N	Ncms Np	aerogeneradores Darrieus	20	aerogenerador Darrieus	18	turbina Darrieus		14	syntactic	yes	turbinas Darrieus	turbina Darrieus	13	aerogenerador de tipo Darrieus
+aerogenerador Savonius	MWT		N N	Ncms Np	aerogeneradores Savonius	21	aerogenerador Savonius	16	savonius		3	anaphoric/graphical	yes	savonius	savonius	3	diseño de los aerogenerador Savonius, los tipo savonius
+límite de Betz	MWT		N Sp N	Ncms Sp Np	límites de Betz	40	límite de Betz	40									coeficiente o límite de Bezt
+rosa de el viento	MWT		N Sp D N	Ncfs Sp D Ncmp	rosas de los vientos	73	rosa de los vientos	73									rosa de los vientos de Brest
+distribución de Weibull	MWT		N Sp N	Ncms Sp Np	distribuciones de Weibull	54	distrubución de Weibull	54									equilibrado de la distribución de Weibull
+rotor bobinar	MWT		N Vmp	Ncms Vmp	rotores bobinados	27	rotor bobinado	27									alternadores de rotor bobinado
+megavatio eólico	MWT		NA	Ncms A-ms	megavatios eólicos	18	megavatios eólicos	12	megavatio de energía eólico	Ncms Sp Ncfs A-ms	16	syntactic	yes	megavatios de energía eólica	megavatios de energía eólica	16	megavatios de energía eólica marina
+energía del viento	MWT		N Sp D N	Ncfs Sp D Ncms	energías del  viento	191	energía del viento	191	energía cinética del aire		16	syntactic	no	energías cinéticas del aire	energía cinética del aire	8	costes de la energía del viento, transformación de la energía cinética del aire
+									energía eólico del viento		4	syntactic	yes	energías eólicas del viento	energía eólica del viento	4	energía eólica del viento del sur
+									energía cinética del viento		142	syntactic	no	energías cinéticas del viento	energía cinética del viento	71	ciclo natural de energía cinética del viento
+energía marino	MWT		NA	Ncfs A-ms	energías marinas	4	energía marina	4	energía eólico marino	Ncfs A-ms A-ms	166	syntactic	no	energías eólicas marinas	energía eólica marina	108	potencial de energía marina, energía eólica marina tradicional
+									energía del mar		6	syntactic	yes	energías del mar	energía del mar	6	ganacias de la energía del mar
+energía eólico	MWT		NA	Ncfs A-ms	energías eólicas	2144	energía eólica	2132	energía minieólico	Ncfs A-ms	12	morphologic	no	energías minieólicas	energía minieólica	12	proyecto de energía minieólica
+									energía solar y eólico		15	syntactic	no	energías solar y eólica	energía solar y eólica	13	sistemas renovables de energía solar y eólica
+ángulo de paso	MWT		N Sp N	Ncms Sp Ncms	ángulos de paso	171	ángulo de paso	84									cambio del ángulo de paso
+motor de inducción	MWT		N Sp N	Ncms Sp Ncms	motores de inducción	54	motores de inducción	42									velocidad de los motores de inducción
+caja de engranaje	MWT		N Sp N	Ncfs Sp Ncms	cajas de engranajes, cajas de engranaje, caja de engranajes	52	caja de engrajes	18									lubricación de la caja de engranajes
+energía cinética	MWT		NA	Ncfs A-fs	energías cinéticas	240	energía cinética	191									transformación de la energía cinética
+combustible fósil	MWT		NA	Ncms A--s	combustibles fósiles	230	combustiblse fósiles	117									 centrales eléctricas de combustible fósil
+curva de potencia	MWT		N Sp N	Ncfs Sp Ncfs	curvas de potencia	223	curva de potencia	93									curva de potencia de los aerogeneradores
+potencial eólico	MWT		NA	Ncms A-ms	potenciales eólicos	223	potencial eólico	172	potencia del viento		91	syntactic	yes	potencia de los vientos	potencia del viento	75	turbinas de bajo potencial eólico
+pala del rotor	MWT		N Sp D N	Ncfs Sp D Ncms	palas del rotor, palas de los rotores	200	palas del rotor	82	pala de rotor		25	anaphoric	yes	palas de rotor, palas de rotores	palas de rotor	11	palas del rotor de la turbina, diseñadores de palas de rotor
+subestación eléctrica	MWT		NA	Ncfs A-fs	subestaciones eléctricas	70	subestación eléctrica	70	subestación 		223	anaphoric	yes	subestaciones	subestación	223	estructura de la subestación eléctrica, subestación del parque eólico
+potencia nominal	MWT		NA	Ncfs A--s	potencias nominales	330	potencia nominal	106									potencia nominal instalada
+generación eólica	MWT		NA	Ncfs A-fs	generación eólica	151	generación eólica	98									parques de generación eólica
+industria eólica	MWT		NA	Ncfs A-fs	industria eólica	117	industria eólica	64	sector eólico		121	morphologic	yes	sectores eólicos	sector eólico	76	desarrollo nacional de la industria eólica, sector eólico español
+generador electro-eólico	MWT		NA	Ncms A-ms	generadores electro-eólicos	2	generador electro-eólico	2									generador electro-eólico de 3.000 kW
+curva de eﬁciencia de Betz	MWT		N Sp N Sp N	Ncfs Sp Ncfs Sp Np	curvas de eficiencia de Betz	4	curva de eficiencia de Betz	4									curva de eficiencia de Betz obtenida
+puente rectificador	MWT		NA	Ncms Ncms	puentes rectificadores	12	puente rectificador	12									 puente rectificador de onda completa
+veleta de orientación	MWT		N Sp N	Ncfs Sp Ncfs	veletas de orientación	5	veleta de orientación	5									en forma de veleta de orientación
+rotor a barlovento	MWT		N a N	Ncms Sp Ncms	rotores a barlovento	38	rotor a barlovento	38									rotor a barlovento del generador

@@ -1,0 +1,167 @@
+term	SWT vs MWT	Nature of the term (CE vs. NE )	pattern	morpho. tag	inflected forms	frequency (lemma and forms)	most frequent form used	frequency of most frequent form used	variant (lemma)	variant morpho.tag	frequency (lemma and forms)	type of variant	synonymic variant	inflected forms of the variant	most frequent form used	frequency of most frequent form used	collocational uses
+#SWT 																	
+módem	SWT	NE	N	Ncms	módems	121	módem	121									controlador de módem
+conectividad	SWT	NE	N	Ncfs	conectividad	116	conectividad	116									terminal de conectividad GSM
+sincronización	SWT	NE	N	Ncfs	sincronizaciones	78	sincronización	78									sincronización de un satélite geoestacionario
+conector	SWT	NE	N	Ncms	conectores	53	conector	53									conector de alimentación
+escalabilidad	SWT	NE	N 	Ncfs	escalabilidad	25	escalabilidad	25									clave de la escalabilidad de IMS
+roaming	SWT	loan	N	Ncms	roaming	16	roaming	16	roaming internacional		8	anaphoric	yes	roaming internacional	roaming internacional	8	soporte de roaming,roaming internacional
+									itinerancia		7	morphologic	yes	itinerancia	intinerancia	7	penalizaciones por itinerancia
+									itinerancia internacional		2	morphologic	yes	itinerancia internacional	itinerancia internacional	2	acuerdo de itinerancia internacional
+háptica	SWT	loan	A	Afs	háptico, hápticos, hápticas	14	háptica	14	interfaz háptico	Ncfs A-ms	4	syntactic	no	interfaces hápticas	interfaces hápticas	4	retroalimentación háptica, interfaz háptica para el control de las funciones
+escalable	SWT	NE	A	A--s	escalables	10	escalable	10									arquitectura escalable
+conmutación	SWT	NE	N	Ncfs	conmutación	117	conmutación	117	sistema de conmutación		10	syntactic	no	sistemas de conmutación	sistema de conmutación	10	velocidad de conmutación, sistema de conmutación de circuitos
+direccionamiento	SWT	NE	N	Ncms	direccionamientos	10	direccionamiento	10									mecanismo de direccionamiento
+acoplamiento	SWT	NE	N	Ncms	acoplamientos	8	acoplamiento	8									pérdidas de acoplamiento
+modulación	SWT	NE	N	Ncms	modulaciones	50	modulación	50									técnica de modulación de frecuencias electromagnéticas
+proxy	SWT	loan	N	Ncms	proxys	14	proxy	14	servidor proxy		7	syntactic	yes	servidores proxy	servidor proxy	7	tareas proxy, servicios del servidor proxy
+tunneling	SWT	loan	N	Ncms	tunnelling	7	tunnelling	7									servidores mecanismo ‘tunneling’ de capa
+espectro	SWT	NE	N	Ncms	espectros	153	espectro	151	banda del espectro		7	syntactic	no	bandas del espectro	bandas del espectro	6	espectro radioeléctrico
+coaxial	SWT	NE	N	A-ms	coaxiales	27	coaxial	27	cable coaxial		32					19	longitud de los cables coaxiales
+smartphone	SWT	loan	N	N-cms	smartphones	14	smartphones	14	teléfono inteligente	Ncms A--s	6	morphologic	yes	teléfonos inteligentes	teléfonos inteligentes	6	smartphone avanzado, nuevos modelos de teléfonos inteligentes
+router	SWT	loan	N	Ncms	routers	10	routers	10									software del router
+host	SWT	loan	N	N-cms	hosts	33	host	33	host móvil		44	syntactic	yes	host móviles, hosts móviles	host móvil	44	hosts fijos, ruteo para host móviles
+interfaz	SWT	NE	N	Ncfs	interfaces	219	interfaz	148	interfaz de usuario		18	syntactic	no	interfaces de usuario	interfaz de usuario	18	interfaz de usuario implementada
+señalización	SWT	NE	N	Ncfs	señalizaciones	78	señalización	78									protocolo de señalización
+codificación	SWT	NE	N	Ncms	codificación	49	codificación	49	decodificación		8	morphologic	no	decodificación	decodificación	8	codificación de canal, decodifiación de audio
+									transcodificación		1	morphologic	no	transmodificación	transmodificación	1	transcodificación audio
+señal	SWT	NE	N	Ncfs	señales	526	señales	344									compresión de la señal
+buffer	SWT	loan	N	Ncms	buffers	2	buffers	2									el tamaño del buffer
+estandarización	SWT	NE	N	Ncms	estandarización	22	estandarización	22									estandarización de los dispositivos y sistemas
+trama	SWT	NE	N	Ncfs	tramas	47	trama	26	supertrama		5	morphologic	no	supertramas	supertrama	3	estructuras de tramas TDMA
+simulación	SWT	NE	N	Ncfs	simulaciones	7	simulación	7									simulación basada en agentes
+																	
+																	
+#SWT Neoclassical																	
+audio	SWT	CE	N	Ncms	audio	182	audio	182									tecnología de decodificación de audio
+inalámbrica	SWT	CE	A	Afs	inalámbrico, inalámbricos, inalámbrica, inalámbricas	168	inalámbrica	168	red inalámbrico	Ncfs A-ms	28	syntactic	yes	redes inalámbricas	red inalámbrica	16	LAN inalámbrica, red inalámbrica de corto alcance
+									conexión inalámbrico	Ncfs A-ms	20	syntactic	yes	conexiones inalámbricas	conexión inalámbrica	10	estándar de conexión inalámbrica
+sociotécnico	SWT	CE	A	Ams	sociotécnico, sociotécnicos, sociotécnica, sociotécnicas	133	sociotécnico	133									estudio sociotécnico de las comunicaciones móviles 
+portátil	SWT	CE	A	Ams	portátiles	126	portátil	63									ordenador portátil
+repetidor	SWT	CE	N	Ncms	repetidores	97	repetidor	58									potencia de salida del repetidor
+nodo	SWT	CE	N	Ncms	nodos	86	nodos	86									nodo de conmutación
+interconexión	SWT	CE	N	Ncfs	interconexiones	270	interconexión	270									interconexión de redes telefónicas
+analógico	SWT	CE	A	Afs	analógico, analógicos, analógicas, analógica	58	analógica	58	sistema analógico	Ncms A-ms	22	anaphoric	yes	sistemas analógicos	sistemas analógicos	11	teléfono analógico
+									analógico-digital		1	morphologic	no	analógico-digitales	analógico-digitales	1	conversión analógico-digital
+									tecnología analógico	Ncfs A-ms	8	syntactic	yes	tecnologías analógicas	tecnología analógica	8	límites de la tecnología analógica
+transmisor	SWT	CE	N	Ncms	transmisores	55	transmisor	55									transmisor/receptor 
+radiofrecuencia	SWT	CE	N	Ncfs	radiofrecuencias	23	radiofrecuencia	23									canales de radiofrecuencia
+multiplexación	SWT	CE	N	Ncms	multiplexación	20	multiplexación	20	multiplexación espacial								multiplexación por división de onda
+satelital	SWT	CE	A	A	satelitales	19	satelitales	19									antena satelital
+radiocomunicación	SWT	CE	N	Ncms	radiocomunicaciones	18	radiocomunicaciones	18									sistema de radiocomunicaciones
+microteléfono	SWT	CE	N	Ncms	microteléfonos	18	microteléfono	18									tecla  del microteléfono
+infrarrojo	SWT	CE	N	Ncms	infrarrojos	18	infrarrojo	18	infrarrojo térmico		9	syntactic	no	infrarrojos térmicos	infrarrojo térmico	9	sistemas de comunicación por infrarrojo,banda del infrarrojo térmico
+teledetección	SWT	CE	N	Ncfs	teledetección	14	teledetección	14	teledetección pasivo	Ncfs A-ms	7	syntactic	no	teledecciones pasivas	teledetección pasiva	7	teledetección pasiva
+enrutamiento	SWT	CE	N	Ncms	enrutamientos	13	enrutamiento	13	encaminamiento		20	morphologic	yes	encaminamientos	encaminamiento	20	enrutamiento de mensajes
+									ruteo		4	morphologic	yes	ruteos	ruteo	4	ruteo de un paquete
+microprocesador	SWT	CE	N	Ncms	microprocesadores	13	microprocesadores	8									microprocesador del gateway
+estéreo	SWT	CE	N	Ncms	estéreo	12	estéreo	12	estereofónica		9	morphologic	yes	estereofónico, estereofónicos, estereofónica, estereofónicas	estereofónica	9	auricular estéreo
+minitoma	SWT	CE	N	Ncfs	minitomas	11	minitoma	11									minitoma de auriculares
+antena	SWT	CE	N	Ncfs	antenas	271	antena	147	antena omnidireccional		4	syntactic	no	antenas omnidireccionales	antenas omnidireccionales	2	antena de televisión por satélite
+autómata	SWT	CE	N	Ncms	autómatas	10	autómata	10									autómata programable
+datagrama	SWT	CE	N	Ncfs	datagramas	8	datagramas	8									protocolo datagrama
+diafonía	SWT	CE	N	Ncfs	diafonía	8	diafonía	8	diafonía digital		8	syntactic	yes	diafonías digitales	diafonía digital	8	control de la diafonía digital, diafonía acústica
+hiperconectado	SWT	CE	A	A-ms	hiperconectados, hiperconectada, hiperconectadas	7	hiperconectada	7									mundo hiperconectado
+antropotécnica	SWT	CE	A	A-fs	antropotécnicos, antropotécnica, antropotécnicas	6	antropotécnica	6									complejidad antropotécnica
+interferencia	SWT	CE	N	Ncfs	interferencias	126	interferencia	89									interferencia de las ondas
+topología	SWT	CE	N	Ncfs	topología	14	topología	14									topología de la red
+electromagnético	SWT	CE	A	A-fs	electromagnética, electromagnéticos, electromagnéticas	14	electronmagnética	14									banda del espectro electromagnético
+intranet	SWT	CE	N	Ncfs	intranets	10	intranets	10									intranet empresarial
+encriptación	SWT	CE	N	Ncms	encriptación	22	encriptación	22	criptografía		20	morphologic	no	criptografía	criptografí	20	encriptación de la información, protocolos de criptografía 
+radiotelefonía	SWT	CE	N	Ncfs	radiotelefonía	7	radiotelefonía	7									equipo de radiotelefonía móvil
+transpondedores	SWT	CE	N	Ncms	transpondedores	7	transpondedores	7									laboratorio vía transpondedores
+																	
+																	
+																	
+#MWT																	
+comunicación móvil	MWT		NA	Ncfs A--s	comunicaciones móviles	642	comunicaciones móviles	341									comunicación móvil de datos
+transmisión de dato	MWT		N Sp N	Ncfs Sp Ncms	transmisiones de datos, transmisión de datos	215	transmisión de datos	102									transmisión de dato fijo-móvil
+dispositivo móvil	MWT		NA	Ncms A--s	dispositivos móviles	204	dispositivos móviles	80	dispositivo inalámbrico	Ncms A-ms	21	morphologic	yes	dispositivos inalámbricos	dispositivos inalámbricos	12	dispositivo móvil de fax compatible, uso del dispositivo inalámbrico
+									dispositivo portátil		16	morphologic	yes	dispositivos portátiles	dispositivos portátiles	9	dispositivo portátil compatible
+									dispositivo de comunicación móvil		2	syntactic	yes	dispositivos de comunicación móviles	dispositivos de comunicación móviles	2	microprocesadores para dispositivos de comunicación móviles
+estación base	MWT		N N	Ncfs Ncfs	estaciones base	186	estación base	79									subsistema de estación base
+terminal móvil	MWT		NA	Ncfs A--s	terminales móviles	186	terminal móvil	96	terminal de telefonía móvil		2	anaphoric	yes	terminales de telefonía móvil	terminal de telefonía móvil	2	antena del terminal móvil,recepción de los terminales de telefonía móvil 3G
+cable radiante	MWT		NA	Ncms A--s	cables radiantes	130	cable radiante	60									solución con cable radiante
+red telefónica	MWT		NA	Ncfs A-fs	redes telefónicas	121	red telefónica	42	red móvil		65	syntactic	yes	redes móviles	redes móviles	27	red telefónica analógica
+									red de telefonía		35	syntactic	yes	redes de telefonía	red de telefonía	20	red de telefonía local
+									red de telefonía móvil		24	syntactic	yes	redes de telefonía móvil	red de telefonía móvil	16	sistemas de señalización de la red de telefonía móvil
+estación móvil	MWT		NA	Ncfs A--s	estaciones móviles	108	estación móvil	30									subsistema de Estación móvil
+cobertura de telefonía móvil	MWT		N Sp NA	Ncfs Sp Ncfs A--s	cobertura de telefonías móviles	102	cobertura de telefonía móvil	51	cobertura de telefonía		53	anaphoric	yes	cobertura de telefonías	cobertura de telefonía	53	cobertura de telefonía móvil 2G y 3G
+									cobertura de red		7	syntactic	yes	cobertura de red	cobertura de red	7	cobertura de red disponible
+									cobertura		307	anaphoric	yes	cobertura	cobertura	307	fuera de cobertura
+fibra óptica	MWT		NA	Ncfs A-fs	fibras ópticas	102	fibra óptica	54									conexión de fibra óptica multimodo
+velocidad de transmisión	MWT		N Sp N	Ncfs Sp Ncms	velocidades de transmisión	84	velocidades de transmisión	28									velocidad de transmisión por tipos de cable
+teléfono inalámbrico	MWT		NA	Ncms A-ms	teléfonos inalámbricos	64	teléfonos inalámbricos	36	telefonía inalámbrico	Ncfs A-ms	17	morphologic	no	telefonías inalámbricas	telefonía inalámbrica	11	terminal portátil del teléfono inalámbrico, canales de telefonía inalámbrica
+servicio de red	MWT		N Sp N	Ncms Sp Ncfs	servicios de red, servicios de redes	63	servicio de red	16	servicio de telefonía		44	morphologic	yes	servicios de telefonías móviles	servicio de telefonía	25	proovedor de servicio de red, servicio de telefonía fija por medio inalámbrico
+									servicio móvil		70	morphologic	yes	servicios móviles	servicios móviles	42	servicio móvil de datos y voz
+									servicio de telefonía móvil		38	syntactic	yes	servicios de telefonías móviles		11	tarifas del servicio de telefonía móvil
+									servicio telefónico		39	syntactic	yes	servicios telefónicos	servicio telefónico	18	servicio telefónico básico con conmutación automática
+conmutación de paquete	MWT		N Sp N	Ncfs Sp Ncms	conmutación de paquetes	56	conmutación de paquetes	28									velocidad de conmutación de paquetes
+operador de telefonía	MWT		N Sp N	Ncms Sp Ncfs	operador de telefonía, operadores de telefonía, operadoras de telefonía, operadora de telefonía	39	operadoras de telefonía	11	operador del teléfono móvil		2	anaphoric	yes	operador del teléfono móvil, operadores del teléfono móvil, operadoras del teléfono móvil, operadora del teléfono móvil	operador del teléfono móvil	1	operador de telefonía local, operador del teléfono móvil especial
+longitud de onda	MWT		N Sp N	Ncfs Sp Ncfs	longitud de ondas, longitudes de ondas	37	longitudes de onda	16									intervalo de longitud de onda
+onda de radio	MWT		N Sp N	Ncfs Sp Ncms	ondas de radio	37	ondas de radio	33									propagación de la onda de radio
+terminal de conectividad	MWT		N Sp N	Ncfs de Ncfs	terminales de conectividad	36	terminal de conectividad	18									terminal de conectividad GSM
+área de cobertura	MWT		N Sp N	Ncfs Sp Ncfs	áreas de cobertura	35	áera de cobertura	14	zona de cobertura		28	morphologic	yes	zonas de cobertura	zona de cobertura	13	área de cobertura de servicio,  dentro de la zona de cobertura
+potencia radiar	MWT		N Vmp	Ncfs Vmp	potencia radiada	27	potencia radiada	14									potencia radiada con una antena
+generación de telefonía móvil	MWT		N Sp NA	Ncfs Sp Ncfs A--s	generaciones de telefonía móvil	26	generación de telefonía móvil	8	generación móvil		8	anaphoric	yes	generaciones móviles	generaciones móviles	2	nueva generación de telefonía móvil,segunda generación móvil
+									generación de teléfono inalámbrico	Ncfs Sp Ncms A-ms	4	syntactic	yes	generaciones de teléfonos inalámbricos	generaciones de teléfonos inalámbricos	4	
+reconocimiento de voz	MWT		N Sp N	Ncms Sp Ncms	reconocimiento de voces	24	reconocimiento de voz	12									interfaz con reconocimiento de voz
+telefonía vocal	MWT		NA	Ncfs A--s	telefonías vocales	22	telefonía vocal	15									servicio de telefonía vocal
+mensaje de voz	MWT		N Sp N	Ncms Sp Ncms	mensajes de voz	21	mensajes de voz	13									mensaje de voz en formato de texto
+señal de audio	MWT		N Sp N	Ncfs Sp Ncms	señales de audio	21	señal de audio	7									sistemas de procesamiento de la señal de audio internos
+protocolo de red	MWT		N Sp N	Ncms Sp Ncms	protocolos de red, protocolos de redes	21	protocolos de red	6									protocolo de red más popular del mundo
+salto de frecuencia	MWT		N Sp N	Ncms Sp Ncfs	saltos de frecuencia, saltos de frecuencias	19	salto de frecuencia	4									método de salto de frecuencia
+transmisión de voz	MWT		N Sp N	Ncms Sp Ncfs	transmisión de voz	18	transmisión de voz	11									transmisión de voz y datos
+transmisión de señal	MWT		N Sp N	Ncfs Sp Ncfs	transmisiones de señal, transmisión de señales	8	transmisión de señales	6									transmisión de la señal de radio
+señal óptico	MWT		NA	Ncfs A-ms	señales ópticas	18	señal óptica	10									salidas de señal óptica
+onda electromagnético	MWT		NA	Ncfs A-ms	ondas electronmagnéticas	12	ondas electromagnéticas	6									transmisión de las ondas electromagnéticas
+tecnología de telefonía móvil	MWT		N Sp NA	Ncfs Sp Ncfs A--s	tecnologías de telefonía móvil	14	tecnologías de telefonía móvil	4	tecnología de comunicación móvil	Ncfs Sp Ncfs A--s	4	morphologic	yes	tecnologías de comunicación móviles, tecnologías de comunicaciones móviles	tecnologías de comunicación móviles	4	desarrollo de la tecnología de telefonía móvil
+									tecnología de telefonía		8	anaphoric	yes	tecnologías de telefonía	tecnologías de telefonía	8	tecnología de telefonía inalámbrica digital
+conexión telefónico	MWT		NA	Ncfs A-ms	conexiones telefónicas	11	conexión telefónica	6	interconexión telefónico		1	morphologic	no	interconexión telefónico	interconexión telefónico	1	conexión telefónica entre central y usuario, acuerdo de interconexion telefónico
+									conexión de acceso telefónico		10	syntactic	yes	conexiones de acceso telefónico	conexión de acceso telefónico	6	creación de una nueva conexión de acceso telefónico
+vía satélite	MWT	vía aquí es preposición , no? Es más bien una construcción adverbial diría yo	NA	Ncfs Ncms	vía satélite	11	vía satélite	11									posicionamiento vía satélite
+espectro de frecuencia	MWT		N Sp N	Ncms Sp Ncfs	espectros de frecuencia	11	espectro de frecuencia	7									espectro de frecuencia de telefonía móvil
+																	
+cable de conectividad	MWT		N Sp N	Ncms Sp Ncfs	cables de conectividad	32	cable de conectividad	16	cable de conexión		2	morphologic	yes	cables de conexión	cable de conexión	2	controladores del cable de conectividad, cable de conexión correspondiente
+línea telefónico	MWT		NA	Ncfs A-ms	líneas telefónicas	30	línea telefónica	20									línea telefónica en conexiones
+teléfono inalámbrico	MWT		NA	Ncms A-ms	teléfonos inalámbricos	30	teléfono inalámbrico	18	teléfono móvil		394	teléfonos móviles	yes	teléfonos móviles		232	anatomía de un teléfono inalámbrico, teléfono móvil compatible
+rango de frecuencia	MWT		N Sp N	Ncms Sp Ncfs	rangos de frecuencia	17	rangos de frecuencia	15									rango de frecuencia utilizado
+miniclavija óptico	MWT		NA	Ncfs A-ms	miniclavijas ópticas	14	miniclavia óptica	14									miniclavija óptica a la entrada
+paquete de dato	MWT		N Sp N	Ncms Sp Ncms	paquete de datos, paquetes de datos	62	paquetes de datos	62									protocolo de direccionamiento de paquete de datos
+conmutación de circuito	MWT		N Sp N	Ncms Sp Ncms	conmutación de circuitos	48	conmutación de circuitos	46									sistema de conmutación de circuitos
+comando de voz	MS		N Sp N	Ncms Sp Ncms	comandos de voz	34	comandos de voz	34									 comando de voz personal
+sistema de telefonía	MWT		N Sp N	Ncms Sp Ncfs	sistemas de telefonía	32	sistema de telefonía										sistema de telefonía analógico
+conexión de dato	MWT		N Sp N	Ncms Sp Ncms	conexión de datos	31	conexión de datos	17									conexión de datos del teléfono
+aplicación móvil	MWT		NA	Ncfs A--s	apliaciones móviles	31	aplicaciones móviles	25									mercado de las aplicaciones móviles
+sistema radiante	MWT		NA	Ncfs A--s	sistemas radiantes	31	sistema radiante	31									compartición del sistema radiante
+repetidor óptico	MWT		NA	Ncms A-ms	repetidores ópticos	30	repetidores ópticos	30									sistema de repetidores ópticos
+red inalámbrico	MWT		NA	Ncfs A-ms	redes inalámbricas	28	red inalámbrica	27									 red inalámbrica de área metropolitana
+sociedad móvil hiperconectar	MWT		NA Vmp	Ncms A--s Vmp	sociedades móviles hiperconectadas	8	sociedad móvil hiperconectada	8									nueva sociedad móvil hiperconectada
+red de banda ancho	MWT		N Sp NA	Ncfs Sp Ncfs A-ms	redes de banda ancha	6	redes de banda ancha	6									red de banda ancha móvil
+ancho de banda	MWT		N Sp N	Ncms Sp Ncfs	ancho de banda	115	ancho de banda	115									aumento del ancho de banda
+bits de dato	MWT		N Sp N	Ncms Sp Ncms	bits de datos	6	 bits de datos	6									bits de datos por segundo
+protocolo de encaminamiento	MWT		N Sp N	Ncms Sp Ncms	protocolos de encaminamiento	8	protocolos de encaminamiento										nuevos protocolos de encaminamiento
+eficiencia espectral	MWT		NA	Ncfs A--s	eficiencia espectral	19	eficiencia espectral	19	eficiencia del espectro		4	syntactic	yes	eficiencias del espectro	eficiencia del espectro	4	"incremento de la eficiencia espectral,  eficiencia del espectro de 
+frecuencia mayor"
+marcación rápido	MWT		NA	Ncfs A-ms	marcación rápida	17	marcación rápida	17	marcado rápido		12	morphologic	yes	marcado rápido	marcado rápido	12	entradas de marcación rápida, entrada de marcado rápido
+rango de transmisión	MWT		N Sp N	Ncms Sp Ncfs	rangos de transmisión	14	rango de transmisión	14									rango de transmisión de datos
+miniclavija estereofónico	MWT		NA	Ncfs A-ms	miniclavijas estereofónicas	13	miniclavija estereofónica	13									distribución del panel de una miniclavija estereofónica
+satélite geoestacionario	MWT		NA	Ncms A-ms	satélites geoestacionarios	12	satélites geoestacionarios	12									sincronización de un satélite geoestacionario 
+antena repetidor	MWT		NN	Ncfs Ncms	antenas repetidoras	12	antena repetidora	6									antenas repetidoras o vía satélite
+codificación de voz	MWT		N Sp N	Ncfs Sp Ncms	codificación de voz	12	codificación de voz	12									estándares de codificación de voz
+antena del terminal móvil	MWT		N Sp D N	Ncfs Sp D Ncms A--s	antenas del terminal móvil	12	antena del términal móvil	6									potencia de la antena del terminal móvil
+señal de radiofrecuencia	MWT		N Sp N	Ncfs D Ncfs	señales de radiofrecuencia	12	señal de radiofrecuencia	6									portadora por medio de una señal de radiofrecuencia
+dispositivo WAP	MWT		N N	Ncms Np	dispositivos WAP	6	dispositivos WAP	6									dispositivos WAP(Wireless Application Protocol)
+señal portadora	MWT		NA	Ncfs A-fs	señales portadoras	9	señal portadora	9									señales portadoras de la información
+joystick óptico	MWT		NA	Ncms A-ms	joysticks ópticos	8	joystick óptico	8									uso del joystick óptico
+principio de neutralidad	MWT		N Sp N	Ncms Sp Ncfs	principio de neutralidad	6	principio de neutralidad	6									principio de neutralidad tecnológica
+estación transmisora	MWT		NA	Ncfs A-fs	estaciones transmisoras	7	estación transmisora	7									mantenimiento de la estación transmisora
+pantalla táctil	MWT		NA	Ncfs A--s	pantallas táctiles	7	pantallas táctiles	5									pantalla táctil del móvil
+unidad remoto	MWT		NA	Ncfs A--s	unidades remotas, unidades remoto	7	unidades remotas	4									control de las unidades remotas
+central de conmutación	MWT		N Sp N	Ncfs Sp Ncfs	centrales de conmutación	7	centrales de conmutación	5									central de conmutación de la red
+protocolo IP	MWT		NNp	Ncms Np	protocolo IP	28	protocolo IP	28									países con el protocolo IP
+tarjeta SIM	MWT		N Np	Ncfs Np	tarjetas SIM	11	tarjeta SIM	11									contactos de su tarjeta SIM
+redes UMTS	MWT		N Np	Ncmp Np	redes UMTS	11	redes UMTS	6									estructura de redes UMTS
+terminal 3G	MWT		N Np	Ncms Np	terminales 3G	10	terminal 3G	5									venta de los terminales 3G
+conexión Bluetooth	MWT		N Np	Ncfs Np	conexiones Bluetooth	7	conexión Bluetooth	6									sincronización mediante una conexión Bluetooth
+tecnología GPRS	MWT		N Np	Ncfs Np	tecnología GPRS	24	tecnología GPRS	24									implantación de la tecnología GPRS

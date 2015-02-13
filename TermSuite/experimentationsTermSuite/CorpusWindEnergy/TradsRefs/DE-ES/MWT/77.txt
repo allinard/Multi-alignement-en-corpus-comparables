@@ -1,0 +1,1 @@
+Synchrongenerator	generador síncrono

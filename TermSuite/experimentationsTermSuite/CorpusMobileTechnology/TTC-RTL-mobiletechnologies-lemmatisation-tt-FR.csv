@@ -1,0 +1,200 @@
+term	SWT vs MWT	Nature of the term (CE vs. NE )	pattern	morpho. tag	inflected forms	frequency (lemma and forms)	most frequent form used	frequency of most frequent form used	variant (lemma)	frequency (lemma and forms)	type of variant	synonymic variant	inflected forms of the variant	most frequent form used	frequency of most frequent form used	collocational uses
+#SWT 																
+serveur	SWT	NE	N	Ncms	serveurs	363	serveur	325								
+paramètre	SWT	NE	N	Ncms	paramètres 	551	paramètres 	481								
+congestion	SWT	NE	N	Ncfs		231	congestion	231								contrôle de congestion, fenêtre de congestion, phase de congestion
+codage	SWT	NE	N	Ncms	codages	196	codage	188	décodage	41	morphological	no	décodages	décodage	40	
+synchronisation	SWT	NE	N	Ncfs	synchronisations	108	synchronisation	107								
+utilisateur	SWT	NE	N	Ncms	utilisateurs	787	utilisateur	451								
+destinataire	SWT	NE	N	Ncms	destinataires	90	destinataire	63								
+protocole	SWT	NE	N	Ncms	protocoles 	419	protocole	274								
+plateforme	SWT	NE	N	Ncfs	plateformes	151	plateforme	129	plate-forme	66	graphical	yes		plate-forme	66	
+dimensionnement	SWT	NE	N	Ncms		136	dimensionnement	136								
+acquittement	SWT	NE	N	Ncms	acquittements	63	acquittement	47								
+numérique	SWT	NE	A	A-ms	numériques	85	numériques	45								
+paquet	SWT	NE	N	Ncms	paquets	520	paquets	292								
+spécification	SWT	NE	N	Ncfs	spécifications	55	spécifications	31								
+messagerie	SWT	NE	N	Ncfs	messageries	125	messagerie	123								
+débit	SWT	NE	N	Ncms	débits	442	débit	391								
+noeud	SWT	NE	N	Ncms	nœuds	100	noeud	96								
+configuration	SWT	NE	N	Ncfs	configurations	247	configuration	203								
+architecture	SWT	NE	N	Ncfs	architectures	355	architecture	300								
+standard	SWT	NE	N	Ncms	standards	246	standard	163								
+émetteur	SWT	NE	N	Ncms	émetteurs	89	émetteur	88								
+authentification	SWT	NE	N	Ncfs	authentifications	72	authentification	71								
+simulateur	SWT	NE	N	Ncms	simulateurs	41	simulateur	37								
+initialisation	SWT	NE	N	Ncfs		41	initialisation	41	réinitialisation	41	morphological	no		réinitialisation	41	
+compatible	SWT	NE	A	A-ms	compatibles	47	compatible	27								
+données	SWT	NE	N	Ncfp	données	911	données	911								
+mémorisation	SWT	NE	N	Ncfs		29	mémorisation	29								
+verrouillage	SWT	NE	N	Ncms		65	verrouillage	65	déverrouillage	23	morphological	no		déverrouillage	23	
+raccordement	SWT	NE	N	Ncms		14	raccordement	14								
+en-tête	SWT	NE	N	Ncms	en-têtes	17	en-tête	13								en-tête de données,  en-tête du paquet
+déploiement	SWT	NE	N	Ncms	déploiements	60	déploiement	56								
+cryptage	SWT	NE	N	Ncms		19	cryptage	19								
+vibreur	SWT	NE	N	Ncms		16	vibreur	16								
+roaming	SWT	NE	N	Ncms		67	roaming	67								
+stockage	SWT	NE	N	Ncms		70	stockage	70								
+connectivité	SWT	NE	N	Ncfs		9	connectivité	9								
+streaming	SWT	NE	N	Ncms		21	streaming	21								
+routeur	SWT	NE	N	Ncms	routeurs	44	routeur	25	routage	26	morphological	no		routage	26	
+flux	SWT	NE	N	Ncms		148	flux	148								
+trame	SWT	NE	N	Ncfs	trames	134	trame	88								
+antenne	SWT	NE	N	Ncfs	antennes	253	antenne	138								
+																
+#SWT  Neoclassical																
+bluetooth	SWT	loan	N	Ncms		456	bluetooth	456								
+multistreaming	SWT	CE	N	Ncms		71	multistreaming	71								
+multimédia	SWT	CE	N	Ncmp		72	multimédia	72								
+téléphonie	SWT	CE	N	Ncfs		49	téléphonie	49								
+radiocommunication	SWT	CE	N	Ncfs	radiocommunications	86	radiocommunication	77								
+télécommunication	SWT	CE	N	Ncfs	télécommunications	27	télécommunications	21	télécom	18	transpositional	yes	télécoms	télécoms	9	
+géolocalisation	SWT	CE	N	Ncfs		9	géolocalisation	9								
+smartphone	SWT	loan	N	Ncms	smartphones	35	smartphone	22								
+datagramme	SWT	CE	N	Ncms	datagrammes	26	datagrammes	22								
+transmission	SWT	CE	N	Ncfs	transmissions	512	transmission	471								
+topologie	SWT	CE	N	Ncfs	topologies	12	topologie	11								
+transactionnel	SWT	CE	A	A-ms	transactionnels, transactionnelle, transactionnelles	108	transactionnel	68								
+internet	SWT	CE	N	Ncms		284	internet	284								
+interface	SWT	CE	N	Ncfs	interfaces	407	interface	290								
+infrarouge	SWT	CE	A	A-ms	infrarouges	31	infrarouge	28								
+multiplexage 	SWT	CE	N	Ncms		28	multiplexage 	28	démultiplexage	5	morphological	no		démultiplexage	5	
+																
+MWT																
+communication mobile	MWT		N A	Ncfs A-ms	communications mobiles	35	communications mobiles	28								
+téléphone portable	MWT		N A	Ncms A-ms	téléphones portables	37	téléphone portable	27	téléphone mobile	88	paradigmatic	yes	téléphones mobiles	téléphone mobile	71	
+								0	téléphone cellulaire	175	paradigmatic	yes		téléphone cellulaire	175	
+schéma de codage	MWT		N Sp N	Ncms Sp Ncms	schémas de codage	60	schéma de codage	47								
+transmission de données	MWT		N Sp N	Ncfs Sp Ncfp	transmissions de données	51	transmission de données	49	transfert de données	34	paradigmatic	yes	transferts de données		31	
+									télétransmission de données	1	morphological	yes		télétransmission de données	1	
+niveau transactionnel	MWT		N A	Ncms A-ms		55	niveau transactionnel	55								
+réseau sans fil	MWT		N Sp N	Ncms Sp Ncms	réseaux sans fil	39	réseaux sans fil	31								
+connexion sans fil	MWT		N Sp N	Ncfs Sp Ncms	connexions sans fil	7	connexions sans fil	5	transmission sans fil	3	paradigmatic	yes	transmissions sans fil	transmission sans fil	2	
+									liaison sans fil	4	paradigmatic	yes	liaisons sans fil	liaison sans fil	2	
+appareil sans fil	MWT		N Sp N	Ncms Sp Ncms	appareils sans fil	7	appareil sans fil	4								
+réseau mobile	MWT		N A	Ncms A-ms	réseaux mobiles	263	réseaux mobiles	231								
+terminal mobile	MWT		N A	Ncms A-ms	terminaux mobiles	159	terminaux mobiles	99								
+système embarquer	MWT		N Vmp	Ncms Vmp	systèmes embarqués	28	systèmes embarqués	27								
+client mobile	MWT		N A	Ncms A-ms	clients mobiles	34	client mobile	32								
+clavier virtuel	MWT		N A	Ncms A-ms		26	clavier virtuel	26								
+main libre	MWT		N A	Ncfp A-mp	mains libres	11	mains libres	11	mains-libres	17	graphical	yes		mains-libres	17	
+message vocal	MWT		N A	Ncms A-ms	messages vocaux	14	message vocal	12								
+interface utilisateur	MWT		N N	Ncms Ncms		5	interface utilisateur	5								
+centre de service	MWT		N Sp N	Ncms Sp Ncms		9	centre de service	9								
+station de base	MWT		N Sp N	Ncfs Sp Ncms	stations de base	135	station de base	95								
+appel entrant	MWT		N Vmp	Ncms Vmp	appels entrants	22	appels entrants	12	appel recevoir	13	paradigmatic	yes	appels reçus 	appels reçus 	8	
+perte de données	MWT		N Sp N	Ncfp Sp Ncfp	pertes de données	14	pertes de données	7	perte de paquet	10	paradigmatic	yes	pertes de paquets	perte de paquets	5	
+qualité de service	MWT		N Sp N	Ncfs Sp Ncms		106	qualité de service	106								
+point de accès	MWT		N Sp N	Ncms Sp Ncms		8	point d'accès	8								
+bande de fréquence	MWT		N Sp N	Ncfs Sp Ncfs	bandes de fréquence	7	bande de fréquence	5								
+capacité du réseau	MWT		N Sp D  N	Ncfs Sp D Ncms		5	capacité du réseau	5								
+écran tactile	MWT		N A	Ncms A-ms		21	écran tactile	21								
+carte sim	MWT		N Np	Ncfs Np-s	cartes sim	141	carte sim	132								
+message texte	MWT		N N	Ncms Ncms	messages texte	14	message texte	13								
+adresse ip	MWT		N N	Ncfs Np-s	adresses ip	106	adresse ip	77								
+accès à internet	MWT		N Sp N	Ncms Sp Ncms		10	accès à internet	10								
+diagramme de rayonnement	MWT		N Sp N	Ncms Sp Ncms	diagrammes de rayonnement	11	diagramme de rayonnement	10								
+carte mémoire	MWT		N N	Ncfs Ncfs	cartes mémoire	27	carte mémoire	24								
+utilisateur final	MWT		N N	Ncms A-ms	utilisateurs finals	20	utilisateurs finals	12								
+protocole de signalisation	MWT		N Sp N	Ncms Sp Ncfs	protocoles de signalisation	7	protocole de signalisation	4								
+clé privé	MWT		N A	Ncfs A-ms		7	clé privée	7								
+clé publique	MWT		N A	Ncfs A-ms	clés publiques	14	clé publique	12								
+temps réel	MWT		N A	Ncms A-ms		262	temps réel	262								
+bande passant	MWT		N Vmp	Ncms Vmp	bandes passantes	147	bande passante	145								
+téléphonie mobile	MWT		N A	Ncfs A-ms		27	téléphonie mobile	27								
+infrastructure du réseau	MWT		N Sp D  N	Ncfs Sp D Ncmp	infrastructures des réseaux	14	infrastructures des réseaux	14								
+zone de couverture	MWT		N Sp N	Ncfs Sp Ncfs	zones de couverture	22	zone de couverture	19								
+charge du réseau	MWT		N Sp D  N	Ncfs Sp D Ncms	charges du réseau	9	charge du réseau	8								
+dimensionnement de le ressource	MWT		N Sp D  N	Ncms Sp D Ncfp		7	dimensionnement des ressources	7								
+onde radio	MWT		N N	Ncfp Ncfs 	ondes radio	20	ondes radio	10								
+continuité de service	MWT		N Sp N	Ncfs Sp Ncms		5	continuité de service	5								
+classe de services	MWT		N Sp N	Ncfs Sp Ncms	classes de services	26	classes de services	24								
+établissement de connexion	MWT		N Sp N	Ncms Sp Ncfs		5	établissement de connexion	5								
+système de exploitation	MWT		N Sp N	Ncmp Sp Ncfs	systèmes d'exploitation	8	systèmes d'exploitation	4								
+taux de transfert	MWT		N Sp N	Ncmp Sp Ncms	taux de transfert	16	taux de transfert	8								
+liaison radio	MWT		N N	Ncfs Ncfs	liaisons radio	10	liaison radio	8								
+transmission radio	MWT		N N	Ncfs Ncfs	transmissions radio	15	transmission radio	12								
+opérateur téléphonique	MWT		N A	Ncms A-ms	opérateurs téléphoniques	5	opérateurs téléphoniques	3	opérateur	269	transpositional	yes	opérateurs	opérateur	208	
+service de messagerie	MWT		N Sp N	Ncms Sp Ncfs	services de messagerie	9	service de messagerie	5								
+liaison synchrone	MWT		N A	Ncfs A-ms	liaisons synchrones	6	liaison synchrone	3	liaison asynchrone	4	morphological	no	liaisons asynchrones	liaisons asynchrones	3	
+erreur de transmission	MWT		N Sp N	Ncfs Sp Ncfs	erreurs de transmission	6	erreur de transmission	3								
+ressource radio	MWT		N N	Ncfs Sp Ncfs	ressources radio	28	ressources radio	24								
+débit utile	MWT		N A	Ncms A-ms	débits utile	48	débit utile	48								
+temps de réponse	MWT		N Sp N	Ncms Sp Ncfs		15	temps de réponse	15								
+application mobile	MWT		N A	Ncfp A-mp	applications mobiles	34	applications mobiles	17								
+gestion de mobilité	MWT		N Sp N	Ncfs Sp Ncfs		14	gestion de mobilité	14								
+code pin	MWT		N Np	Ncms Np-s	codes pin	33	code pin	29								
+																
+ABR																
+e-mail	SWT		ABR		e-mails	282	e-mail	205	email	36	graphical	yes	emails	email	33	
+sms	SWT		ABR			368	sms	368								
+mms	SWT		ABR			173	mms	173								
+gprs	SWT		ABR			340	gprs	340								
+gps	SWT		ABR			66	gps	66								
+gsm	SWT		ABR			290	gsm	290								
+umts	SWT		ABR			350	umts	350								
+web	SWT		ABR			212	web	212								
+edge	SWT		ABR			248	edge	248								
+wap	SWT		ABR			255	wap	255								
+mbit/s	SWT		ABR			48	mbit/s	48								
+3g	SWT		ABR			149	3g	149								
+usb	SWT		ABR			93	usb	93								
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+Total																

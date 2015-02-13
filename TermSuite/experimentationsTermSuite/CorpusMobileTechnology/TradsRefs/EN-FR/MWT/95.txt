@@ -1,0 +1,1 @@
+signal strength	force du signal

@@ -1,0 +1,1 @@
+downwind	dirección del viento

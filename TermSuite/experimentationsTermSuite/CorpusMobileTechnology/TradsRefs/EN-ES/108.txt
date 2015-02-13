@@ -1,0 +1,1 @@
+gsm/gprs modem	módem gsm/gprs

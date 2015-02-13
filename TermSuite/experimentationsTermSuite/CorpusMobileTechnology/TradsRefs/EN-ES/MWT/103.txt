@@ -1,0 +1,1 @@
+ip address	dirección ip

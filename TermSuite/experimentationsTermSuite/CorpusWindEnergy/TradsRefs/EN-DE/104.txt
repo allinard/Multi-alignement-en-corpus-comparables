@@ -1,0 +1,1 @@
+output power	Ausgangsleistung

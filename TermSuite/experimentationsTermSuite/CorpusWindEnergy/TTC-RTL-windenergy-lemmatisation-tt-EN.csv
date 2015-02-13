@@ -1,0 +1,151 @@
+term	SWT vs MWT	Nature of the term (CEvs. native )	pattern	morpho. tag	inflected forms	frequency (lemma and forms)	most frequent form used	frequency of most frequent form used	variant (lemma)	frequency (lemma and forms)	type of variant	synonymic variant	inflected forms of the variant	most frequent form used	frequency of most frequent form used	collocational uses
+SWT																
+turbine               	SWT	NE	N	Nc-s-	turbines	8299	turbine	5059								
+rotor	SWT	NE	N	Nc-s-	rotors	1394	rotor	1290	wind rotor 	23	syntactic	yes	wind rotors 	wind rotor 	19	
+renewable	SWT	NE	A	A---s-	renewables	783	renewable	694								
+blade	SWT	NE	N	Nc-s-	blades	3218	blade	2247								
+transformer	SWT	NE	N	Nc-s-	transformers	199	transformer	152								
+generator	SWT	NE	N	Nc-s-	generators	1350	generator	1019								
+wind	SWT	NE	N	Nc-s-	winds	13540	wind	13369								
+slipstream            	SWT	NE	N	Nc-s-	- 	34	slipstream            	34								
+upwind	SWT	NE	A	A---s-	- 	60	upwind	60	up wind	9	graphical					
+									up-wind	2	graphical					
+velocity	SWT	NE	N	Nc-s-	velocities	433	velocity	390								
+downwind	SWT	NE	A	A---s-	- 	54	downwind	54	down wind	3	graphical					
+									down-wind	2	graphical					
+windmill	SWT	NE	N	Nc-s-	windmills	147	windmill	90	wind mill	3	graphical		- 			
+axis	SWT	NE	N	Nc-s-	- 	426	axis	426								
+shaft	SWT	NE	N	Nc-s-	shafts	141	shaft	136								
+measurement	SWT	NE	N	Nc-s-	measurements	315	measurements	183								
+mast	SWT	NE	N	Nc-s-	masts	71	masts	36								
+propeller	SWT	NE	N	Nc-s-	propellers	55	propeller	38								
+hub	SWT	NE	N	Nc-s-	hubs	249	hub	235								
+pylon                 	SWT	NE	N	Nc-s-	pylons	31	pylons	20								
+nacelle	SWT	NE	N	Nc-s-	nacelles	146	nacelle	134								
+vortex	SWT	NE	N	Nc-s-	vortices	337	vortex	289								
+sustainability        	SWT	NE	N	Nc-s-	- 	36	sustainability        	36								
+annoyance             	SWT	NE	N	Nc-s-	annoyances	200	annoyance             	199								
+voltage               	SWT	NE	N	Nc-s-	voltages	477	voltage	448								
+tower	SWT	NE	N	Nc-s-	towers	1136	tower	935								
+hybrid                	SWT	NE	A	A---s-	- 	25	hybrid                	25								
+turbulence	SWT	NE	N	Nc-s-												
+drag	SWT	NE	N	Nc-s-	drags	190	drag	189								
+																
+SWT  Neoclassical																
+aerodynamic           	SWT	CE	A	A--s-	aerodynamics           	437	aerodynamic           	325								
+aeroelastic           	SWT	CE	A	A---s-	aeroelastics           	30	aeroelastic           	29								
+aeronautical          	SWT	CE	A	A---s-	- 	21	aeronautical          	21								
+anemometer            	SWT	CE	N	Nc-s-	anemometers            	104	anemometer            	95								
+biodiversity          	SWT	CE	N	Nc-s-	- 	77	biodiversity          	77								
+biomass               	SWT	CE	N	Nc-s-	- 	32	biomass               	32								
+decibel               	SWT	CE	N	Nc-s-	decibels               	49	decibel               	25								
+electromagnetic       	SWT	CE	A	A---s-	- 	71	electromagnetic       	71								
+geothermal            	SWT	CE	A	A---s-	- 	25	geothermal            	25								
+hydroelectric         	SWT	CE	A	A---s-	- 	11	hydroelectric         	11								
+hydrogen              	SWT	CE	N	Nc-s-	- 	163	hydrogen              	163								
+kilowatt              	SWT	CE	N	Nc-s-	kilowatts              	62	kilowatt              	49	kw	681	transposition (abbreviation)	yes				
+megawatt              	SWT	CE	N	Nc-s-	megawatts              	68	megawatt              	45	mw	1152	transposition (abbreviation)	yes				
+topography            	SWT	CE	N	Nc-s-	- 	49	topography            	49								
+airflow	SWT	CE	N	Nc-s-	- 	40	airflow	40	air flow	16						
+airfoil	SWT	CE	N	Nc-s-	airfoils	488	airfoil	398	aerofoil	10	graphical					
+synchronous           	SWT	CE	A	A---s-	- 	89	synchronous           	89	asynchronous          	17	morphological	yes				
+three-bladed	SWT	CE	A	A---s-	- 	34	three-bladed	34	three blade	7	graphical	yes				three-bladed rotor, three-bladed wind turbine, three-bladed turbine, three-bladed HAWT 
+two-bladed	SWT	CE	A	A---s-	-	31	two-bladed	31	two blade	5	graphical	yes				
+multi-bladed	SWT	CE	A	A---s-	-	4	multi-bladed	4								
+																
+MWT																
+wind farm              	MWT		N N	Nc-s- A---s-	wind farms	1975	wind farm	1423	windfarm	185	graphical	yes	windfarms	windfarm	89	
+wind power	MWT		N N	Nc-s- A---s-	wind powers	1098	wind power	1097	windpower	116	graphical	yes				
+									power of wind	1	syntactic	yes	- 			
+wind park	MWT		N N	Nc-s- A---s-	wind parks	69	wind park	53	windpark	27	graphical	yes	windparks	windpark	25	
+									park of wind	2	syntactic	yes	- 			
+wind power plant	MWT		N N N 	Nc-s Nc-s Nc-s	wind power plants	231	wind power plant	154	power plant		anaphorical	yes	power plants			
+wind direction	MWT		N N	Nc-s- A---s-	wind directions	90	wind direction	80								
+wind turbine	MWT		N N	Nc-s- A---s-	wind turbines	4644	wind turbine	2914	- 							
+									turbine		anaphorical	yes				
+wind energy	MWT		N N	Nc-s- A---s-	wind energies	1526	wind energy	1524	energy of wind	1	syntactic	yes	- 			
+wind speed	MWT		N N	Nc-s- A---s-	wind speeds	818	wind speed	635	speed of wind	3	syntactic	yes	- 			
+renewable energy	MWT		A N	A---s- Nc-s-	renewable energies	555	renewable energy	549	renewable and sustainable energy	1	syntactic	no				
+offshore wind	MWT		A N	A---s- Nc-s-	offshore winds	464	offshore wind	461	off-shore wind 	33	graphical	yes	- 			
+energy development	MWT		N N 	Nc-s- Nc-s-	energy developments	374	energy development	272								
+sound level	MWT		N N 	Nc-s- Nc-s-	sound levels	317	sound level	190	level of sound	13	syntactic	yes	levels of sound	level of sound	8	
+turbine generator	MWT		N N 	Nc-s- Nc-s-	turbine generators	338	turbine generator	188								
+wind energy potential	MWT		N N N 	Nc-s- Nc-s- Nc-s-	- 	25										
+low frequency	MWT		A N	A---s- Nc-s-	low frequencies	211	low frequency	191	low and high frequencies	1	syntactic	no	- 			
+									low and very high frequency	4	syntactic	no	low and very high frequencies	low and very high frequency	3	
+blade failure	MWT		N N	Nc-s- Nc-s-	blade failures	222	blade failure	220								
+wind site	MWT		N N	Nc-s- Nc-s-	wind site	22	wind site	18	wind turbine site	12	syntactic	yes	wind turbine sites	wind turbine sites	7	
+angle of attack	MWT		N of N	Nc-s- S:p Nc-s-	angles of attack	181	angle of attack	137	attack angle	3	syntactic	yes	- 			
+impact assessment	MWT		N N	Nc-s- Nc-s-	impact assessments	152	impact assessment	138	assessment of impact	5	syntactic	yes	assessments of impact	assessment of impact	3	
+environmental impact	MWT		A N	A---s- Nc-s-	environmental impacts	154	environmental impact	93	environmental and social impact	9	syntactic	no	environmental and social impacts	environmental and social impact	7	
+									environmental and socioeconomic impacts	1	syntactic	no	- 			
+									environmental and human impact	5	syntactic	no	- 			
+wind project	MWT		N N	Nc-s- Nc-s-	wind projects	169	wind project	88								
+pitch angle	MWT		N N	Nc-s- Nc-s-	pitch angles	142	pitch angle	98								
+rotor blade	MWT		N N	Nc-s- Nc-s-	rotor blades	155	rotor blade	82								
+vertical axis	MWT		A N	A---s- Nc-s-	vertical axes	127	vertical axis	126								
+speed ratio	MWT		N N	Nc-s- Nc-s-	speed ratios	126	speed ratio	109								
+wind generator	MWT		N N	Nc-s- Nc-s-	wind generators	222	wind generator	185								
+power coefficient	MWT		N N	Nc-s- Nc-s-	power coefficients	125	power coefficient	109	coefficient of performance or power	1	syntactic	no	- 			
+blade element	MWT		N N	Nc-s- Nc-s-	blade elements	153	blade element	115	element of blade	1	syntactic	yes	- 			
+wind resource	MWT		N N	Nc-s- Nc-s-	wind resources	129	wind resource	98								
+reactive power	MWT		A N	A---s- Nc-s-	- 	103	reactive power	103								
+control system	MWT		N N	Nc-s- Nc-s-	control systems	109	control system	92								
+horizontal axis	MWT		A N	A---s- Nc-s-	horizontal axes	87	horizontal axis	86	horizontal and vertical axis	3	syntactic	no				
+fossil fuel	MWT		A N	A---s- Nc-s-	fossil fuels	83	fossil fuel	51								
+power capacity	MWT		N N	Nc-s- Nc-s-	power capacities	93	power capacity	92								
+greenhouse gas	MWT		N N	Nc-s- Nc-s-	greenhouse gases	79	greenhouse gas	49								
+wind velocity	MWT		N N	Nc-s- Nc-s-	wind velocities	95	wind velocity	86	velocity of wind	3	syntactic	yes				
+wind tunnel	MWT		N N	Nc-s- Nc-s-	wind tunnels	89	wind tunnel	87								
+power station 	MWT		N N	Nc-s- Nc-s-	power stations 	67	power station 	41	wind power station	32	syntactic	no	wind power stations	wind power stations	20	
+power system	MWT		N N	Nc-s- Nc-s-	power systems	102	power system	59								
+average wind	MWT		A N	A---s- Nc-s-	- 	80	average wind	80								
+high wind	MWT		A N	A---s- Nc-s-	high winds	51	high winds	31	high and constant wind	1	syntactic	no	- 			
+									high average wind	1	syntactic	no	- 			
+									high and moderate winds	1	syntactic	no	- 			
+large wind	MWT		A N	A---s- Nc-s-	- 	64	large wind	64	large offshore wind	2	syntactic	no	- 			
+small wind	MWT		A N	A---s- Nc-s-	- 	76	small wind	76	small vertical wind	1	syntactic	no	- 			
+									small residential wind	1	syntactic	no	- 			
+scale wind	MWT		A N	A---s- Nc-s-	- 	89	scale wind	89								
+hub height	MWT		N N	Nc-s- Nc-s-	hub heights	72	hub height	69								
+rotational speed	MWT		A N	A---s- Nc-s-	rotational speeds	73	rotational speed	62								
+energy storage	MWT		N N	Nc-s- Nc-s-	- 	6	energy storage	6								
+electric power	MWT		A N	A---s- Nc-s-	- 	68	electric power	68	electric and thermal power	1	syntactic	no				
+trail edge	MWT		V:mg N		trailing edges	71	trailing edge	68								
+blade tip	MWT		N N	Nc-s- Nc-s-	blade tips	60	blade tip	42								
+rotor speed	MWT		N N	Nc-s- Nc-s-	rotor speeds	62	rotor speed	58	speed of rotor	1	syntactic	yes	- 			
+air density	MWT		N N	Nc-s- Nc-s-	- 	43	air density	43	density of air	7	syntactic	yes				
+synchronous generator	MWT		A N	A---s- Nc-s-	synchronous generators	51	synchronous generator	48								
+maximum power	MWT		A N	A---s- Nc-s-	- 	42	maximum power	42	maximum available power	1	syntactic	yes				
+									maximum possible power	2	syntactic	yes				
+									maximum overall power	3	syntactic	no				
+									maximum achievable power	4	syntactic	yes				
+									maximum elemental power	5	syntactic	no				
+onshore wind	MWT		A N	A---s- Nc-s-	- 	51	onshore wind	51								
+output power	MWT		N N	Nc-s- Nc-s-	- 	44	output power	44								
+renewable source	MWT		A N	A---s- Nc-s-	renewable sources	39	renewable sources	33								
+rotor shaft	MWT		N N	Nc-s- Nc-s-	- 	11	rotor shaft	11								main rotor shaft
+wind vane	MWT		N N	Nc-s- Nc-s-	wind vanes	11	wind vane	7								
+transmission system	MWT		N N	Nc-s- Nc-s-	transmission systems	35	transmission system	31								
+Darrieus rotor	MWT		N N	Np-s- Nc-s-	- 	9	Darrieus rotor	9								
+Savonius rotor	MWT		N N	Np-s- Nc-s-	Savonius rotors	8	Savonius rotor	5								
+rotor assembly	MWT		N N	Nc-s- Nc-s-	- 	7	rotor assembly	7								
+lateral angle	MWT		A N	A---s- Nc-s-	lateral angles	31	lateral angle	30								
+wind angle	MWT		N N	Nc-s- Nc-s-	wind angles	26	wind angle	23								
+offshore wind turbine	MWT		A N N	A---s- Nc-s- Nc-s-	offshore wind turbines	58	offshore wind turbines	30	off-shore wind turbine	3	graphical	yes	off-shore wind turbines	off-shore wind turbine	2	
+onshore wind turbine	MWT		A N N	A---s- Nc-s- Nc-s-	onshore wind turbines	5	onshore wind turbine	4	on-shore wind turbines	2	graphical	yes	- 			
+domestic wind turbine	MWT		A N N	A---s- Nc-s- Nc-s-	domestic wind turbines	35	domestic wind turbine	21								
+wind system	MWT		N N	Nc-s- Nc-s-	wind systems	32	wind systems	19								
+rate power	MWT		N N	Nc-s- Nc-s-	rated powers	65	rated power	64								
+sustainable energy	MWT		A N	A---s- Nc-s-	- 	39	sustainable energy	39	green energy	16	paradigmatic	yes				
+vertical axis wind turbine	MWT		A N N N	A---s- Nc-s- Nc-s- Nc-s-	vertical axis wind turbines	96	vertical axis wind turbine	61	VAWT	109	transposition (abbreviation)	yes				
+									vertical-axis wind turbine	27	graphical	yes	vertical-axis wind turbines	vertical-axis wind turbine	15	
+horizontal axis wind turbine	MWT		A N N N	A---s- Nc-s- Nc-s- Nc-s-	horizontal axis wind turbines	30	horizontal axis wind turbines	26	HAWT	147	transposition (abbreviation)	yes				
+									horizontal-axis wind turbine	57	graphical	yes	horizontal-axis wind turbines	horizontal-axis wind turbines	30	
+wind industry	MWT		N N	Nc-s- Nc-s-		81										
+power curve	MWT		N N	Nc-s- Nc-s-	power curves	73	power curve	72	curve of power	1						
+noise sensitivity	MWT		N N	Nc-s- Nc-s-		58										
+carbon dioxide	MWT		N N	Nc-s- Nc-s-		51										
+energy conversion efficiency	MWT		N N N 	Nc-s- Nc-s- Nc-s-		4										
+angular position	MWT		A N	A---s- Nc-s-	angular positions	6	angular position	5								
+drag coefficient	MWT		N N	Nc-s- Nc-s-		34										
